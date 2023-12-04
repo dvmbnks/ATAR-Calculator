@@ -1,0 +1,6820 @@
+{
+"ATARS" :
+[{
+        "Aggregate": 90.00,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.95,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.90,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.85,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.80,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.75,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.70,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.65,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.60,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.55,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.50,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.45,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.40,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.35,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.30,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.25,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.20,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.15,
+        "ATAR": 99.95
+    },
+    {
+        "Aggregate": 89.10,
+        "ATAR": 99.90
+    },
+    {
+        "Aggregate": 89.05,
+        "ATAR": 99.90
+    },
+    {
+        "Aggregate": 89.00,
+        "ATAR": 99.90
+    },
+    {
+        "Aggregate": 88.95,
+        "ATAR": 99.90
+    },
+    {
+        "Aggregate": 88.90,
+        "ATAR": 99.90
+    },
+    {
+        "Aggregate": 88.85,
+        "ATAR": 99.90
+    },
+    {
+        "Aggregate": 88.80,
+        "ATAR": 99.85
+    },
+    {
+        "Aggregate": 88.75,
+        "ATAR": 99.85
+    },
+    {
+        "Aggregate": 88.70,
+        "ATAR": 99.85
+    },
+    {
+        "Aggregate": 88.65,
+        "ATAR": 99.80
+    },
+    {
+        "Aggregate": 88.60,
+        "ATAR": 99.80
+    },
+    {
+        "Aggregate": 88.55,
+        "ATAR": 99.80
+    },
+    {
+        "Aggregate": 88.50,
+        "ATAR": 99.75
+    },
+    {
+        "Aggregate": 88.45,
+        "ATAR": 99.75
+    },
+    {
+        "Aggregate": 88.40,
+        "ATAR": 99.75
+    },
+    {
+        "Aggregate": 88.35,
+        "ATAR": 99.75
+    },
+    {
+        "Aggregate": 88.30,
+        "ATAR": 99.70
+    },
+    {
+        "Aggregate": 88.25,
+        "ATAR": 99.70
+    },
+    {
+        "Aggregate": 88.20,
+        "ATAR": 99.65
+    },
+    {
+        "Aggregate": 88.15,
+        "ATAR": 99.65
+    },
+    {
+        "Aggregate": 88.10,
+        "ATAR": 99.60
+    },
+    {
+        "Aggregate": 88.05,
+        "ATAR": 99.60
+    },
+    {
+        "Aggregate": 88.00,
+        "ATAR": 99.60
+    },
+    {
+        "Aggregate": 87.95,
+        "ATAR": 99.60
+    },
+    {
+        "Aggregate": 87.90,
+        "ATAR": 99.55
+    },
+    {
+        "Aggregate": 87.85,
+        "ATAR": 99.55
+    },
+    {
+        "Aggregate": 87.80,
+        "ATAR": 99.50
+    },
+    {
+        "Aggregate": 87.75,
+        "ATAR": 99.50
+    },
+    {
+        "Aggregate": 87.70,
+        "ATAR": 99.45
+    },
+    {
+        "Aggregate": 87.65,
+        "ATAR": 99.45
+    },
+    {
+        "Aggregate": 87.60,
+        "ATAR": 99.40
+    },
+    {
+        "Aggregate": 87.55,
+        "ATAR": 99.40
+    },
+    {
+        "Aggregate": 87.50,
+        "ATAR": 99.40
+    },
+    {
+        "Aggregate": 87.45,
+        "ATAR": 99.40
+    },
+    {
+        "Aggregate": 87.40,
+        "ATAR": 99.35
+    },
+    {
+        "Aggregate": 87.35,
+        "ATAR": 99.35
+    },
+    {
+        "Aggregate": 87.30,
+        "ATAR": 99.35
+    },
+    {
+        "Aggregate": 87.25,
+        "ATAR": 99.35
+    },
+    {
+        "Aggregate": 87.20,
+        "ATAR": 99.30
+    },
+    {
+        "Aggregate": 87.15,
+        "ATAR": 99.25
+    },
+    {
+        "Aggregate": 87.10,
+        "ATAR": 99.25
+    },
+    {
+        "Aggregate": 87.05,
+        "ATAR": 99.25
+    },
+    {
+        "Aggregate": 87.00,
+        "ATAR": 99.25
+    },
+    {
+        "Aggregate": 86.95,
+        "ATAR": 99.20
+    },
+    {
+        "Aggregate": 86.90,
+        "ATAR": 99.20
+    },
+    {
+        "Aggregate": 86.85,
+        "ATAR": 99.20
+    },
+    {
+        "Aggregate": 86.80,
+        "ATAR": 99.20
+    },
+    {
+        "Aggregate": 86.75,
+        "ATAR": 99.15
+    },
+    {
+        "Aggregate": 86.70,
+        "ATAR": 99.15
+    },
+    {
+        "Aggregate": 86.65,
+        "ATAR": 99.15
+    },
+    {
+        "Aggregate": 86.60,
+        "ATAR": 99.10
+    },
+    {
+        "Aggregate": 86.55,
+        "ATAR": 99.10
+    },
+    {
+        "Aggregate": 86.50,
+        "ATAR": 99.10
+    },
+    {
+        "Aggregate": 86.45,
+        "ATAR": 99.05
+    },
+    {
+        "Aggregate": 86.40,
+        "ATAR": 99.05
+    },
+    {
+        "Aggregate": 86.35,
+        "ATAR": 99.00
+    },
+    {
+        "Aggregate": 86.30,
+        "ATAR": 98.95
+    },
+    {
+        "Aggregate": 86.25,
+        "ATAR": 98.95
+    },
+    {
+        "Aggregate": 86.20,
+        "ATAR": 98.95
+    },
+    {
+        "Aggregate": 86.15,
+        "ATAR": 98.90
+    },
+    {
+        "Aggregate": 86.10,
+        "ATAR": 98.90
+    },
+    {
+        "Aggregate": 86.05,
+        "ATAR": 98.85
+    },
+    {
+        "Aggregate": 86.00,
+        "ATAR": 98.80
+    },
+    {
+        "Aggregate": 85.95,
+        "ATAR": 98.75
+    },
+    {
+        "Aggregate": 85.90,
+        "ATAR": 98.75
+    },
+    {
+        "Aggregate": 85.85,
+        "ATAR": 98.70
+    },
+    {
+        "Aggregate": 85.80,
+        "ATAR": 98.65
+    },
+    {
+        "Aggregate": 85.75,
+        "ATAR": 98.65
+    },
+    {
+        "Aggregate": 85.70,
+        "ATAR": 98.60
+    },
+    {
+        "Aggregate": 85.65,
+        "ATAR": 98.55
+    },
+    {
+        "Aggregate": 85.60,
+        "ATAR": 98.55
+    },
+    {
+        "Aggregate": 85.55,
+        "ATAR": 98.50
+    },
+    {
+        "Aggregate": 85.50,
+        "ATAR": 98.45
+    },
+    {
+        "Aggregate": 85.45,
+        "ATAR": 98.45
+    },
+    {
+        "Aggregate": 85.40,
+        "ATAR": 98.40
+    },
+    {
+        "Aggregate": 85.35,
+        "ATAR": 98.40
+    },
+    {
+        "Aggregate": 85.30,
+        "ATAR": 98.40
+    },
+    {
+        "Aggregate": 85.25,
+        "ATAR": 98.35
+    },
+    {
+        "Aggregate": 85.20,
+        "ATAR": 98.35
+    },
+    {
+        "Aggregate": 85.15,
+        "ATAR": 98.30
+    },
+    {
+        "Aggregate": 85.10,
+        "ATAR": 98.25
+    },
+    {
+        "Aggregate": 85.05,
+        "ATAR": 98.25
+    },
+    {
+        "Aggregate": 85.00,
+        "ATAR": 98.20
+    },
+    {
+        "Aggregate": 84.95,
+        "ATAR": 98.15
+    },
+    {
+        "Aggregate": 84.90,
+        "ATAR": 98.15
+    },
+    {
+        "Aggregate": 84.85,
+        "ATAR": 98.10
+    },
+    {
+        "Aggregate": 84.80,
+        "ATAR": 98.10
+    },
+    {
+        "Aggregate": 84.75,
+        "ATAR": 98.05
+    },
+    {
+        "Aggregate": 84.70,
+        "ATAR": 98.05
+    },
+    {
+        "Aggregate": 84.65,
+        "ATAR": 98.00
+    },
+    {
+        "Aggregate": 84.60,
+        "ATAR": 98.00
+    },
+    {
+        "Aggregate": 84.55,
+        "ATAR": 97.95
+    },
+    {
+        "Aggregate": 84.50,
+        "ATAR": 97.95
+    },
+    {
+        "Aggregate": 84.45,
+        "ATAR": 97.90
+    },
+    {
+        "Aggregate": 84.40,
+        "ATAR": 97.85
+    },
+    {
+        "Aggregate": 84.35,
+        "ATAR": 97.85
+    },
+    {
+        "Aggregate": 84.30,
+        "ATAR": 97.80
+    },
+    {
+        "Aggregate": 84.25,
+        "ATAR": 97.75
+    },
+    {
+        "Aggregate": 84.20,
+        "ATAR": 97.75
+    },
+    {
+        "Aggregate": 84.15,
+        "ATAR": 97.70
+    },
+    {
+        "Aggregate": 84.10,
+        "ATAR": 97.65
+    },
+    {
+        "Aggregate": 84.05,
+        "ATAR": 97.60
+    },
+    {
+        "Aggregate": 84.00,
+        "ATAR": 97.55
+    },
+    {
+        "Aggregate": 83.95,
+        "ATAR": 97.50
+    },
+    {
+        "Aggregate": 83.90,
+        "ATAR": 97.45
+    },
+    {
+        "Aggregate": 83.85,
+        "ATAR": 97.40
+    },
+    {
+        "Aggregate": 83.80,
+        "ATAR": 97.40
+    },
+    {
+        "Aggregate": 83.75,
+        "ATAR": 97.30
+    },
+    {
+        "Aggregate": 83.70,
+        "ATAR": 97.25
+    },
+    {
+        "Aggregate": 83.65,
+        "ATAR": 97.20
+    },
+    {
+        "Aggregate": 83.60,
+        "ATAR": 97.15
+    },
+    {
+        "Aggregate": 83.55,
+        "ATAR": 97.15
+    },
+    {
+        "Aggregate": 83.50,
+        "ATAR": 97.10
+    },
+    {
+        "Aggregate": 83.45,
+        "ATAR": 97.05
+    },
+    {
+        "Aggregate": 83.40,
+        "ATAR": 97.00
+    },
+    {
+        "Aggregate": 83.35,
+        "ATAR": 96.95
+    },
+    {
+        "Aggregate": 83.30,
+        "ATAR": 96.95
+    },
+    {
+        "Aggregate": 83.25,
+        "ATAR": 96.90
+    },
+    {
+        "Aggregate": 83.20,
+        "ATAR": 96.85
+    },
+    {
+        "Aggregate": 83.15,
+        "ATAR": 96.80
+    },
+    {
+        "Aggregate": 83.10,
+        "ATAR": 96.80
+    },
+    {
+        "Aggregate": 83.05,
+        "ATAR": 96.75
+    },
+    {
+        "Aggregate": 83.00,
+        "ATAR": 96.70
+    },
+    {
+        "Aggregate": 82.95,
+        "ATAR": 96.65
+    },
+    {
+        "Aggregate": 82.90,
+        "ATAR": 96.60
+    },
+    {
+        "Aggregate": 82.85,
+        "ATAR": 96.60
+    },
+    {
+        "Aggregate": 82.80,
+        "ATAR": 96.55
+    },
+    {
+        "Aggregate": 82.75,
+        "ATAR": 96.50
+    },
+    {
+        "Aggregate": 82.70,
+        "ATAR": 96.45
+    },
+    {
+        "Aggregate": 82.65,
+        "ATAR": 96.40
+    },
+    {
+        "Aggregate": 82.60,
+        "ATAR": 96.40
+    },
+    {
+        "Aggregate": 82.55,
+        "ATAR": 96.35
+    },
+    {
+        "Aggregate": 82.50,
+        "ATAR": 96.30
+    },
+    {
+        "Aggregate": 82.45,
+        "ATAR": 96.25
+    },
+    {
+        "Aggregate": 82.40,
+        "ATAR": 96.20
+    },
+    {
+        "Aggregate": 82.35,
+        "ATAR": 96.15
+    },
+    {
+        "Aggregate": 82.30,
+        "ATAR": 96.10
+    },
+    {
+        "Aggregate": 82.25,
+        "ATAR": 96.10
+    },
+    {
+        "Aggregate": 82.20,
+        "ATAR": 96.05
+    },
+    {
+        "Aggregate": 82.15,
+        "ATAR": 96.00
+    },
+    {
+        "Aggregate": 82.10,
+        "ATAR": 95.95
+    },
+    {
+        "Aggregate": 82.05,
+        "ATAR": 95.95
+    },
+    {
+        "Aggregate": 82.00,
+        "ATAR": 95.90
+    },
+    {
+        "Aggregate": 81.95,
+        "ATAR": 95.85
+    },
+    {
+        "Aggregate": 81.90,
+        "ATAR": 95.80
+    },
+    {
+        "Aggregate": 81.85,
+        "ATAR": 95.75
+    },
+    {
+        "Aggregate": 81.80,
+        "ATAR": 95.70
+    },
+    {
+        "Aggregate": 81.75,
+        "ATAR": 95.65
+    },
+    {
+        "Aggregate": 81.70,
+        "ATAR": 95.60
+    },
+    {
+        "Aggregate": 81.65,
+        "ATAR": 95.55
+    },
+    {
+        "Aggregate": 81.60,
+        "ATAR": 95.50
+    },
+    {
+        "Aggregate": 81.55,
+        "ATAR": 95.45
+    },
+    {
+        "Aggregate": 81.50,
+        "ATAR": 95.40
+    },
+    {
+        "Aggregate": 81.45,
+        "ATAR": 95.35
+    },
+    {
+        "Aggregate": 81.40,
+        "ATAR": 95.30
+    },
+    {
+        "Aggregate": 81.35,
+        "ATAR": 95.25
+    },
+    {
+        "Aggregate": 81.30,
+        "ATAR": 95.20
+    },
+    {
+        "Aggregate": 81.25,
+        "ATAR": 95.20
+    },
+    {
+        "Aggregate": 81.20,
+        "ATAR": 95.15
+    },
+    {
+        "Aggregate": 81.15,
+        "ATAR": 95.05
+    },
+    {
+        "Aggregate": 81.10,
+        "ATAR": 95.05
+    },
+    {
+        "Aggregate": 81.05,
+        "ATAR": 95.00
+    },
+    {
+        "Aggregate": 81.00,
+        "ATAR": 94.95
+    },
+    {
+        "Aggregate": 80.95,
+        "ATAR": 94.90
+    },
+    {
+        "Aggregate": 80.90,
+        "ATAR": 94.80
+    },
+    {
+        "Aggregate": 80.85,
+        "ATAR": 94.75
+    },
+    {
+        "Aggregate": 80.80,
+        "ATAR": 94.70
+    },
+    {
+        "Aggregate": 80.75,
+        "ATAR": 94.70
+    },
+    {
+        "Aggregate": 80.70,
+        "ATAR": 94.65
+    },
+    {
+        "Aggregate": 80.65,
+        "ATAR": 94.60
+    },
+    {
+        "Aggregate": 80.60,
+        "ATAR": 94.55
+    },
+    {
+        "Aggregate": 80.55,
+        "ATAR": 94.50
+    },
+    {
+        "Aggregate": 80.50,
+        "ATAR": 94.45
+    },
+    {
+        "Aggregate": 80.45,
+        "ATAR": 94.40
+    },
+    {
+        "Aggregate": 80.40,
+        "ATAR": 94.30
+    },
+    {
+        "Aggregate": 80.35,
+        "ATAR": 94.25
+    },
+    {
+        "Aggregate": 80.30,
+        "ATAR": 94.20
+    },
+    {
+        "Aggregate": 80.25,
+        "ATAR": 94.15
+    },
+    {
+        "Aggregate": 80.20,
+        "ATAR": 94.05
+    },
+    {
+        "Aggregate": 80.15,
+        "ATAR": 94.00
+    },
+    {
+        "Aggregate": 80.10,
+        "ATAR": 94.00
+    },
+    {
+        "Aggregate": 80.05,
+        "ATAR": 93.95
+    },
+    {
+        "Aggregate": 80.00,
+        "ATAR": 93.85
+    },
+    {
+        "Aggregate": 79.95,
+        "ATAR": 93.80
+    },
+    {
+        "Aggregate": 79.90,
+        "ATAR": 93.80
+    },
+    {
+        "Aggregate": 79.85,
+        "ATAR": 93.75
+    },
+    {
+        "Aggregate": 79.80,
+        "ATAR": 93.70
+    },
+    {
+        "Aggregate": 79.75,
+        "ATAR": 93.65
+    },
+    {
+        "Aggregate": 79.70,
+        "ATAR": 93.60
+    },
+    {
+        "Aggregate": 79.65,
+        "ATAR": 93.55
+    },
+    {
+        "Aggregate": 79.60,
+        "ATAR": 93.55
+    },
+    {
+        "Aggregate": 79.55,
+        "ATAR": 93.50
+    },
+    {
+        "Aggregate": 79.50,
+        "ATAR": 93.45
+    },
+    {
+        "Aggregate": 79.45,
+        "ATAR": 93.40
+    },
+    {
+        "Aggregate": 79.40,
+        "ATAR": 93.35
+    },
+    {
+        "Aggregate": 79.35,
+        "ATAR": 93.30
+    },
+    {
+        "Aggregate": 79.30,
+        "ATAR": 93.25
+    },
+    {
+        "Aggregate": 79.25,
+        "ATAR": 93.20
+    },
+    {
+        "Aggregate": 79.20,
+        "ATAR": 93.10
+    },
+    {
+        "Aggregate": 79.15,
+        "ATAR": 93.05
+    },
+    {
+        "Aggregate": 79.10,
+        "ATAR": 92.95
+    },
+    {
+        "Aggregate": 79.05,
+        "ATAR": 92.90
+    },
+    {
+        "Aggregate": 79.00,
+        "ATAR": 92.85
+    },
+    {
+        "Aggregate": 78.95,
+        "ATAR": 92.80
+    },
+    {
+        "Aggregate": 78.90,
+        "ATAR": 92.75
+    },
+    {
+        "Aggregate": 78.85,
+        "ATAR": 92.70
+    },
+    {
+        "Aggregate": 78.80,
+        "ATAR": 92.65
+    },
+    {
+        "Aggregate": 78.75,
+        "ATAR": 92.55
+    },
+    {
+        "Aggregate": 78.70,
+        "ATAR": 92.50
+    },
+    {
+        "Aggregate": 78.65,
+        "ATAR": 92.45
+    },
+    {
+        "Aggregate": 78.60,
+        "ATAR": 92.40
+    },
+    {
+        "Aggregate": 78.55,
+        "ATAR": 92.35
+    },
+    {
+        "Aggregate": 78.50,
+        "ATAR": 92.35
+    },
+    {
+        "Aggregate": 78.45,
+        "ATAR": 92.25
+    },
+    {
+        "Aggregate": 78.40,
+        "ATAR": 92.20
+    },
+    {
+        "Aggregate": 78.35,
+        "ATAR": 92.15
+    },
+    {
+        "Aggregate": 78.30,
+        "ATAR": 92.15
+    },
+    {
+        "Aggregate": 78.25,
+        "ATAR": 92.10
+    },
+    {
+        "Aggregate": 78.20,
+        "ATAR": 92.05
+    },
+    {
+        "Aggregate": 78.15,
+        "ATAR": 92.00
+    },
+    {
+        "Aggregate": 78.10,
+        "ATAR": 91.90
+    },
+    {
+        "Aggregate": 78.05,
+        "ATAR": 91.90
+    },
+    {
+        "Aggregate": 78.00,
+        "ATAR": 91.85
+    },
+    {
+        "Aggregate": 77.95,
+        "ATAR": 91.75
+    },
+    {
+        "Aggregate": 77.90,
+        "ATAR": 91.70
+    },
+    {
+        "Aggregate": 77.85,
+        "ATAR": 91.65
+    },
+    {
+        "Aggregate": 77.80,
+        "ATAR": 91.55
+    },
+    {
+        "Aggregate": 77.75,
+        "ATAR": 91.50
+    },
+    {
+        "Aggregate": 77.70,
+        "ATAR": 91.45
+    },
+    {
+        "Aggregate": 77.65,
+        "ATAR": 91.45
+    },
+    {
+        "Aggregate": 77.60,
+        "ATAR": 91.40
+    },
+    {
+        "Aggregate": 77.55,
+        "ATAR": 91.35
+    },
+    {
+        "Aggregate": 77.50,
+        "ATAR": 91.30
+    },
+    {
+        "Aggregate": 77.45,
+        "ATAR": 91.20
+    },
+    {
+        "Aggregate": 77.40,
+        "ATAR": 91.15
+    },
+    {
+        "Aggregate": 77.35,
+        "ATAR": 91.10
+    },
+    {
+        "Aggregate": 77.30,
+        "ATAR": 91.05
+    },
+    {
+        "Aggregate": 77.25,
+        "ATAR": 91.00
+    },
+    {
+        "Aggregate": 77.20,
+        "ATAR": 90.90
+    },
+    {
+        "Aggregate": 77.15,
+        "ATAR": 90.90
+    },
+    {
+        "Aggregate": 77.10,
+        "ATAR": 90.85
+    },
+    {
+        "Aggregate": 77.05,
+        "ATAR": 90.80
+    },
+    {
+        "Aggregate": 77.00,
+        "ATAR": 90.70
+    },
+    {
+        "Aggregate": 76.95,
+        "ATAR": 90.65
+    },
+    {
+        "Aggregate": 76.90,
+        "ATAR": 90.60
+    },
+    {
+        "Aggregate": 76.85,
+        "ATAR": 90.50
+    },
+    {
+        "Aggregate": 76.80,
+        "ATAR": 90.45
+    },
+    {
+        "Aggregate": 76.75,
+        "ATAR": 90.45
+    },
+    {
+        "Aggregate": 76.70,
+        "ATAR": 90.40
+    },
+    {
+        "Aggregate": 76.65,
+        "ATAR": 90.35
+    },
+    {
+        "Aggregate": 76.60,
+        "ATAR": 90.30
+    },
+    {
+        "Aggregate": 76.55,
+        "ATAR": 90.25
+    },
+    {
+        "Aggregate": 76.50,
+        "ATAR": 90.20
+    },
+    {
+        "Aggregate": 76.45,
+        "ATAR": 90.10
+    },
+    {
+        "Aggregate": 76.40,
+        "ATAR": 90.05
+    },
+    {
+        "Aggregate": 76.35,
+        "ATAR": 90.00
+    },
+    {
+        "Aggregate": 76.30,
+        "ATAR": 89.95
+    },
+    {
+        "Aggregate": 76.25,
+        "ATAR": 89.85
+    },
+    {
+        "Aggregate": 76.20,
+        "ATAR": 89.80
+    },
+    {
+        "Aggregate": 76.15,
+        "ATAR": 89.75
+    },
+    {
+        "Aggregate": 76.10,
+        "ATAR": 89.65
+    },
+    {
+        "Aggregate": 76.05,
+        "ATAR": 89.55
+    },
+    {
+        "Aggregate": 76.00,
+        "ATAR": 89.50
+    },
+    {
+        "Aggregate": 75.95,
+        "ATAR": 89.40
+    },
+    {
+        "Aggregate": 75.90,
+        "ATAR": 89.35
+    },
+    {
+        "Aggregate": 75.85,
+        "ATAR": 89.30
+    },
+    {
+        "Aggregate": 75.80,
+        "ATAR": 89.25
+    },
+    {
+        "Aggregate": 75.75,
+        "ATAR": 89.20
+    },
+    {
+        "Aggregate": 75.70,
+        "ATAR": 89.10
+    },
+    {
+        "Aggregate": 75.65,
+        "ATAR": 89.05
+    },
+    {
+        "Aggregate": 75.60,
+        "ATAR": 89.00
+    },
+    {
+        "Aggregate": 75.55,
+        "ATAR": 88.95
+    },
+    {
+        "Aggregate": 75.50,
+        "ATAR": 88.90
+    },
+    {
+        "Aggregate": 75.45,
+        "ATAR": 88.85
+    },
+    {
+        "Aggregate": 75.40,
+        "ATAR": 88.75
+    },
+    {
+        "Aggregate": 75.35,
+        "ATAR": 88.70
+    },
+    {
+        "Aggregate": 75.30,
+        "ATAR": 88.65
+    },
+    {
+        "Aggregate": 75.25,
+        "ATAR": 88.55
+    },
+    {
+        "Aggregate": 75.20,
+        "ATAR": 88.45
+    },
+    {
+        "Aggregate": 75.15,
+        "ATAR": 88.40
+    },
+    {
+        "Aggregate": 75.10,
+        "ATAR": 88.35
+    },
+    {
+        "Aggregate": 75.05,
+        "ATAR": 88.25
+    },
+    {
+        "Aggregate": 75.00,
+        "ATAR": 88.20
+    },
+    {
+        "Aggregate": 74.95,
+        "ATAR": 88.15
+    },
+    {
+        "Aggregate": 74.90,
+        "ATAR": 88.05
+    },
+    {
+        "Aggregate": 74.85,
+        "ATAR": 88.00
+    },
+    {
+        "Aggregate": 74.80,
+        "ATAR": 87.95
+    },
+    {
+        "Aggregate": 74.75,
+        "ATAR": 87.90
+    },
+    {
+        "Aggregate": 74.70,
+        "ATAR": 87.85
+    },
+    {
+        "Aggregate": 74.65,
+        "ATAR": 87.80
+    },
+    {
+        "Aggregate": 74.60,
+        "ATAR": 87.75
+    },
+    {
+        "Aggregate": 74.55,
+        "ATAR": 87.65
+    },
+    {
+        "Aggregate": 74.50,
+        "ATAR": 87.60
+    },
+    {
+        "Aggregate": 74.45,
+        "ATAR": 87.50
+    },
+    {
+        "Aggregate": 74.40,
+        "ATAR": 87.45
+    },
+    {
+        "Aggregate": 74.35,
+        "ATAR": 87.40
+    },
+    {
+        "Aggregate": 74.30,
+        "ATAR": 87.35
+    },
+    {
+        "Aggregate": 74.25,
+        "ATAR": 87.30
+    },
+    {
+        "Aggregate": 74.20,
+        "ATAR": 87.20
+    },
+    {
+        "Aggregate": 74.15,
+        "ATAR": 87.15
+    },
+    {
+        "Aggregate": 74.10,
+        "ATAR": 87.10
+    },
+    {
+        "Aggregate": 74.05,
+        "ATAR": 87.00
+    },
+    {
+        "Aggregate": 74.00,
+        "ATAR": 86.95
+    },
+    {
+        "Aggregate": 73.95,
+        "ATAR": 86.90
+    },
+    {
+        "Aggregate": 73.90,
+        "ATAR": 86.85
+    },
+    {
+        "Aggregate": 73.85,
+        "ATAR": 86.75
+    },
+    {
+        "Aggregate": 73.80,
+        "ATAR": 86.70
+    },
+    {
+        "Aggregate": 73.75,
+        "ATAR": 86.60
+    },
+    {
+        "Aggregate": 73.70,
+        "ATAR": 86.55
+    },
+    {
+        "Aggregate": 73.65,
+        "ATAR": 86.50
+    },
+    {
+        "Aggregate": 73.60,
+        "ATAR": 86.45
+    },
+    {
+        "Aggregate": 73.55,
+        "ATAR": 86.40
+    },
+    {
+        "Aggregate": 73.50,
+        "ATAR": 86.35
+    },
+    {
+        "Aggregate": 73.45,
+        "ATAR": 86.25
+    },
+    {
+        "Aggregate": 73.40,
+        "ATAR": 86.20
+    },
+    {
+        "Aggregate": 73.35,
+        "ATAR": 86.15
+    },
+    {
+        "Aggregate": 73.30,
+        "ATAR": 86.10
+    },
+    {
+        "Aggregate": 73.25,
+        "ATAR": 86.05
+    },
+    {
+        "Aggregate": 73.20,
+        "ATAR": 86.00
+    },
+    {
+        "Aggregate": 73.15,
+        "ATAR": 85.90
+    },
+    {
+        "Aggregate": 73.10,
+        "ATAR": 85.85
+    },
+    {
+        "Aggregate": 73.05,
+        "ATAR": 85.75
+    },
+    {
+        "Aggregate": 73.00,
+        "ATAR": 85.70
+    },
+    {
+        "Aggregate": 72.95,
+        "ATAR": 85.60
+    },
+    {
+        "Aggregate": 72.90,
+        "ATAR": 85.50
+    },
+    {
+        "Aggregate": 72.85,
+        "ATAR": 85.45
+    },
+    {
+        "Aggregate": 72.80,
+        "ATAR": 85.40
+    },
+    {
+        "Aggregate": 72.75,
+        "ATAR": 85.35
+    },
+    {
+        "Aggregate": 72.70,
+        "ATAR": 85.25
+    },
+    {
+        "Aggregate": 72.65,
+        "ATAR": 85.20
+    },
+    {
+        "Aggregate": 72.60,
+        "ATAR": 85.15
+    },
+    {
+        "Aggregate": 72.55,
+        "ATAR": 85.05
+    },
+    {
+        "Aggregate": 72.50,
+        "ATAR": 85.00
+    },
+    {
+        "Aggregate": 72.45,
+        "ATAR": 84.95
+    },
+    {
+        "Aggregate": 72.40,
+        "ATAR": 84.90
+    },
+    {
+        "Aggregate": 72.35,
+        "ATAR": 84.80
+    },
+    {
+        "Aggregate": 72.30,
+        "ATAR": 84.70
+    },
+    {
+        "Aggregate": 72.25,
+        "ATAR": 84.65
+    },
+    {
+        "Aggregate": 72.20,
+        "ATAR": 84.60
+    },
+    {
+        "Aggregate": 72.15,
+        "ATAR": 84.55
+    },
+    {
+        "Aggregate": 72.10,
+        "ATAR": 84.45
+    },
+    {
+        "Aggregate": 72.05,
+        "ATAR": 84.40
+    },
+    {
+        "Aggregate": 72.00,
+        "ATAR": 84.30
+    },
+    {
+        "Aggregate": 71.95,
+        "ATAR": 84.20
+    },
+    {
+        "Aggregate": 71.90,
+        "ATAR": 84.15
+    },
+    {
+        "Aggregate": 71.85,
+        "ATAR": 84.05
+    },
+    {
+        "Aggregate": 71.80,
+        "ATAR": 84.00
+    },
+    {
+        "Aggregate": 71.75,
+        "ATAR": 83.95
+    },
+    {
+        "Aggregate": 71.70,
+        "ATAR": 83.90
+    },
+    {
+        "Aggregate": 71.65,
+        "ATAR": 83.80
+    },
+    {
+        "Aggregate": 71.60,
+        "ATAR": 83.75
+    },
+    {
+        "Aggregate": 71.55,
+        "ATAR": 83.70
+    },
+    {
+        "Aggregate": 71.50,
+        "ATAR": 83.60
+    },
+    {
+        "Aggregate": 71.45,
+        "ATAR": 83.55
+    },
+    {
+        "Aggregate": 71.40,
+        "ATAR": 83.45
+    },
+    {
+        "Aggregate": 71.35,
+        "ATAR": 83.35
+    },
+    {
+        "Aggregate": 71.30,
+        "ATAR": 83.25
+    },
+    {
+        "Aggregate": 71.25,
+        "ATAR": 83.20
+    },
+    {
+        "Aggregate": 71.20,
+        "ATAR": 83.15
+    },
+    {
+        "Aggregate": 71.15,
+        "ATAR": 83.10
+    },
+    {
+        "Aggregate": 71.10,
+        "ATAR": 83.00
+    },
+    {
+        "Aggregate": 71.05,
+        "ATAR": 82.90
+    },
+    {
+        "Aggregate": 71.00,
+        "ATAR": 82.80
+    },
+    {
+        "Aggregate": 70.95,
+        "ATAR": 82.75
+    },
+    {
+        "Aggregate": 70.90,
+        "ATAR": 82.70
+    },
+    {
+        "Aggregate": 70.85,
+        "ATAR": 82.65
+    },
+    {
+        "Aggregate": 70.80,
+        "ATAR": 82.60
+    },
+    {
+        "Aggregate": 70.75,
+        "ATAR": 82.50
+    },
+    {
+        "Aggregate": 70.70,
+        "ATAR": 82.40
+    },
+    {
+        "Aggregate": 70.65,
+        "ATAR": 82.35
+    },
+    {
+        "Aggregate": 70.60,
+        "ATAR": 82.25
+    },
+    {
+        "Aggregate": 70.55,
+        "ATAR": 82.20
+    },
+    {
+        "Aggregate": 70.50,
+        "ATAR": 82.10
+    },
+    {
+        "Aggregate": 70.45,
+        "ATAR": 82.00
+    },
+    {
+        "Aggregate": 70.40,
+        "ATAR": 81.95
+    },
+    {
+        "Aggregate": 70.35,
+        "ATAR": 81.90
+    },
+    {
+        "Aggregate": 70.30,
+        "ATAR": 81.80
+    },
+    {
+        "Aggregate": 70.25,
+        "ATAR": 81.75
+    },
+    {
+        "Aggregate": 70.20,
+        "ATAR": 81.65
+    },
+    {
+        "Aggregate": 70.15,
+        "ATAR": 81.55
+    },
+    {
+        "Aggregate": 70.10,
+        "ATAR": 81.50
+    },
+    {
+        "Aggregate": 70.05,
+        "ATAR": 81.40
+    },
+    {
+        "Aggregate": 70.00,
+        "ATAR": 81.35
+    },
+    {
+        "Aggregate": 69.95,
+        "ATAR": 81.30
+    },
+    {
+        "Aggregate": 69.90,
+        "ATAR": 81.25
+    },
+    {
+        "Aggregate": 69.85,
+        "ATAR": 81.15
+    },
+    {
+        "Aggregate": 69.80,
+        "ATAR": 81.10
+    },
+    {
+        "Aggregate": 69.75,
+        "ATAR": 81.05
+    },
+    {
+        "Aggregate": 69.70,
+        "ATAR": 80.95
+    },
+    {
+        "Aggregate": 69.65,
+        "ATAR": 80.90
+    },
+    {
+        "Aggregate": 69.60,
+        "ATAR": 80.80
+    },
+    {
+        "Aggregate": 69.55,
+        "ATAR": 80.70
+    },
+    {
+        "Aggregate": 69.50,
+        "ATAR": 80.65
+    },
+    {
+        "Aggregate": 69.45,
+        "ATAR": 80.60
+    },
+    {
+        "Aggregate": 69.40,
+        "ATAR": 80.50
+    },
+    {
+        "Aggregate": 69.35,
+        "ATAR": 80.40
+    },
+    {
+        "Aggregate": 69.30,
+        "ATAR": 80.35
+    },
+    {
+        "Aggregate": 69.25,
+        "ATAR": 80.25
+    },
+    {
+        "Aggregate": 69.20,
+        "ATAR": 80.15
+    },
+    {
+        "Aggregate": 69.15,
+        "ATAR": 80.10
+    },
+    {
+        "Aggregate": 69.10,
+        "ATAR": 80.05
+    },
+    {
+        "Aggregate": 69.05,
+        "ATAR": 80.00
+    },
+    {
+        "Aggregate": 69.00,
+        "ATAR": 79.95
+    },
+    {
+        "Aggregate": 68.95,
+        "ATAR": 79.85
+    },
+    {
+        "Aggregate": 68.90,
+        "ATAR": 79.80
+    },
+    {
+        "Aggregate": 68.85,
+        "ATAR": 79.75
+    },
+    {
+        "Aggregate": 68.80,
+        "ATAR": 79.70
+    },
+    {
+        "Aggregate": 68.75,
+        "ATAR": 79.65
+    },
+    {
+        "Aggregate": 68.70,
+        "ATAR": 79.55
+    },
+    {
+        "Aggregate": 68.65,
+        "ATAR": 79.45
+    },
+    {
+        "Aggregate": 68.60,
+        "ATAR": 79.40
+    },
+    {
+        "Aggregate": 68.55,
+        "ATAR": 79.35
+    },
+    {
+        "Aggregate": 68.50,
+        "ATAR": 79.25
+    },
+    {
+        "Aggregate": 68.45,
+        "ATAR": 79.20
+    },
+    {
+        "Aggregate": 68.40,
+        "ATAR": 79.10
+    },
+    {
+        "Aggregate": 68.35,
+        "ATAR": 79.00
+    },
+    {
+        "Aggregate": 68.30,
+        "ATAR": 78.95
+    },
+    {
+        "Aggregate": 68.25,
+        "ATAR": 78.85
+    },
+    {
+        "Aggregate": 68.20,
+        "ATAR": 78.80
+    },
+    {
+        "Aggregate": 68.15,
+        "ATAR": 78.75
+    },
+    {
+        "Aggregate": 68.10,
+        "ATAR": 78.70
+    },
+    {
+        "Aggregate": 68.05,
+        "ATAR": 78.60
+    },
+    {
+        "Aggregate": 68.00,
+        "ATAR": 78.50
+    },
+    {
+        "Aggregate": 67.95,
+        "ATAR": 78.45
+    },
+    {
+        "Aggregate": 67.90,
+        "ATAR": 78.40
+    },
+    {
+        "Aggregate": 67.85,
+        "ATAR": 78.35
+    },
+    {
+        "Aggregate": 67.80,
+        "ATAR": 78.30
+    },
+    {
+        "Aggregate": 67.75,
+        "ATAR": 78.25
+    },
+    {
+        "Aggregate": 67.70,
+        "ATAR": 78.20
+    },
+    {
+        "Aggregate": 67.65,
+        "ATAR": 78.15
+    },
+    {
+        "Aggregate": 67.60,
+        "ATAR": 78.10
+    },
+    {
+        "Aggregate": 67.55,
+        "ATAR": 78.05
+    },
+    {
+        "Aggregate": 67.50,
+        "ATAR": 78.00
+    },
+    {
+        "Aggregate": 67.45,
+        "ATAR": 77.95
+    },
+    {
+        "Aggregate": 67.40,
+        "ATAR": 77.90
+    },
+    {
+        "Aggregate": 67.35,
+        "ATAR": 77.85
+    },
+    {
+        "Aggregate": 67.30,
+        "ATAR": 77.75
+    },
+    {
+        "Aggregate": 67.25,
+        "ATAR": 77.70
+    },
+    {
+        "Aggregate": 67.20,
+        "ATAR": 77.65
+    },
+    {
+        "Aggregate": 67.15,
+        "ATAR": 77.60
+    },
+    {
+        "Aggregate": 67.10,
+        "ATAR": 77.50
+    },
+    {
+        "Aggregate": 67.05,
+        "ATAR": 77.45
+    },
+    {
+        "Aggregate": 67.00,
+        "ATAR": 77.40
+    },
+    {
+        "Aggregate": 66.95,
+        "ATAR": 77.30
+    },
+    {
+        "Aggregate": 66.90,
+        "ATAR": 77.25
+    },
+    {
+        "Aggregate": 66.85,
+        "ATAR": 77.20
+    },
+    {
+        "Aggregate": 66.80,
+        "ATAR": 77.10
+    },
+    {
+        "Aggregate": 66.75,
+        "ATAR": 77.05
+    },
+    {
+        "Aggregate": 66.70,
+        "ATAR": 76.95
+    },
+    {
+        "Aggregate": 66.65,
+        "ATAR": 76.90
+    },
+    {
+        "Aggregate": 66.60,
+        "ATAR": 76.85
+    },
+    {
+        "Aggregate": 66.55,
+        "ATAR": 76.80
+    },
+    {
+        "Aggregate": 66.50,
+        "ATAR": 76.70
+    },
+    {
+        "Aggregate": 66.45,
+        "ATAR": 76.65
+    },
+    {
+        "Aggregate": 66.40,
+        "ATAR": 76.60
+    },
+    {
+        "Aggregate": 66.35,
+        "ATAR": 76.55
+    },
+    {
+        "Aggregate": 66.30,
+        "ATAR": 76.45
+    },
+    {
+        "Aggregate": 66.25,
+        "ATAR": 76.35
+    },
+    {
+        "Aggregate": 66.20,
+        "ATAR": 76.30
+    },
+    {
+        "Aggregate": 66.15,
+        "ATAR": 76.20
+    },
+    {
+        "Aggregate": 66.10,
+        "ATAR": 76.10
+    },
+    {
+        "Aggregate": 66.05,
+        "ATAR": 76.05
+    },
+    {
+        "Aggregate": 66.00,
+        "ATAR": 76.00
+    },
+    {
+        "Aggregate": 65.95,
+        "ATAR": 75.90
+    },
+    {
+        "Aggregate": 65.90,
+        "ATAR": 75.85
+    },
+    {
+        "Aggregate": 65.85,
+        "ATAR": 75.80
+    },
+    {
+        "Aggregate": 65.80,
+        "ATAR": 75.75
+    },
+    {
+        "Aggregate": 65.75,
+        "ATAR": 75.65
+    },
+    {
+        "Aggregate": 65.70,
+        "ATAR": 75.55
+    },
+    {
+        "Aggregate": 65.65,
+        "ATAR": 75.50
+    },
+    {
+        "Aggregate": 65.60,
+        "ATAR": 75.45
+    },
+    {
+        "Aggregate": 65.55,
+        "ATAR": 75.40
+    },
+    {
+        "Aggregate": 65.50,
+        "ATAR": 75.30
+    },
+    {
+        "Aggregate": 65.45,
+        "ATAR": 75.25
+    },
+    {
+        "Aggregate": 65.40,
+        "ATAR": 75.20
+    },
+    {
+        "Aggregate": 65.35,
+        "ATAR": 75.10
+    },
+    {
+        "Aggregate": 65.30,
+        "ATAR": 75.05
+    },
+    {
+        "Aggregate": 65.25,
+        "ATAR": 75.00
+    },
+    {
+        "Aggregate": 65.20,
+        "ATAR": 74.95
+    },
+    {
+        "Aggregate": 65.15,
+        "ATAR": 74.90
+    },
+    {
+        "Aggregate": 65.10,
+        "ATAR": 74.80
+    },
+    {
+        "Aggregate": 65.05,
+        "ATAR": 74.80
+    },
+    {
+        "Aggregate": 65.00,
+        "ATAR": 74.75
+    },
+    {
+        "Aggregate": 64.95,
+        "ATAR": 74.70
+    },
+    {
+        "Aggregate": 64.90,
+        "ATAR": 74.65
+    },
+    {
+        "Aggregate": 64.85,
+        "ATAR": 74.60
+    },
+    {
+        "Aggregate": 64.80,
+        "ATAR": 74.50
+    },
+    {
+        "Aggregate": 64.75,
+        "ATAR": 74.45
+    },
+    {
+        "Aggregate": 64.70,
+        "ATAR": 74.35
+    },
+    {
+        "Aggregate": 64.65,
+        "ATAR": 74.30
+    },
+    {
+        "Aggregate": 64.60,
+        "ATAR": 74.25
+    },
+    {
+        "Aggregate": 64.55,
+        "ATAR": 74.15
+    },
+    {
+        "Aggregate": 64.50,
+        "ATAR": 74.05
+    },
+    {
+        "Aggregate": 64.45,
+        "ATAR": 73.95
+    },
+    {
+        "Aggregate": 64.40,
+        "ATAR": 73.90
+    },
+    {
+        "Aggregate": 64.35,
+        "ATAR": 73.80
+    },
+    {
+        "Aggregate": 64.30,
+        "ATAR": 73.75
+    },
+    {
+        "Aggregate": 64.25,
+        "ATAR": 73.65
+    },
+    {
+        "Aggregate": 64.20,
+        "ATAR": 73.55
+    },
+    {
+        "Aggregate": 64.15,
+        "ATAR": 73.50
+    },
+    {
+        "Aggregate": 64.10,
+        "ATAR": 73.45
+    },
+    {
+        "Aggregate": 64.05,
+        "ATAR": 73.40
+    },
+    {
+        "Aggregate": 64.00,
+        "ATAR": 73.30
+    },
+    {
+        "Aggregate": 63.95,
+        "ATAR": 73.25
+    },
+    {
+        "Aggregate": 63.90,
+        "ATAR": 73.15
+    },
+    {
+        "Aggregate": 63.85,
+        "ATAR": 73.10
+    },
+    {
+        "Aggregate": 63.80,
+        "ATAR": 73.00
+    },
+    {
+        "Aggregate": 63.75,
+        "ATAR": 72.90
+    },
+    {
+        "Aggregate": 63.70,
+        "ATAR": 72.85
+    },
+    {
+        "Aggregate": 63.65,
+        "ATAR": 72.80
+    },
+    {
+        "Aggregate": 63.60,
+        "ATAR": 72.70
+    },
+    {
+        "Aggregate": 63.55,
+        "ATAR": 72.65
+    },
+    {
+        "Aggregate": 63.50,
+        "ATAR": 72.50
+    },
+    {
+        "Aggregate": 63.45,
+        "ATAR": 72.40
+    },
+    {
+        "Aggregate": 63.40,
+        "ATAR": 72.35
+    },
+    {
+        "Aggregate": 63.35,
+        "ATAR": 72.25
+    },
+    {
+        "Aggregate": 63.30,
+        "ATAR": 72.20
+    },
+    {
+        "Aggregate": 63.25,
+        "ATAR": 72.15
+    },
+    {
+        "Aggregate": 63.20,
+        "ATAR": 72.10
+    },
+    {
+        "Aggregate": 63.15,
+        "ATAR": 72.05
+    },
+    {
+        "Aggregate": 63.10,
+        "ATAR": 71.95
+    },
+    {
+        "Aggregate": 63.05,
+        "ATAR": 71.85
+    },
+    {
+        "Aggregate": 63.00,
+        "ATAR": 71.80
+    },
+    {
+        "Aggregate": 62.95,
+        "ATAR": 71.75
+    },
+    {
+        "Aggregate": 62.90,
+        "ATAR": 71.65
+    },
+    {
+        "Aggregate": 62.85,
+        "ATAR": 71.60
+    },
+    {
+        "Aggregate": 62.80,
+        "ATAR": 71.55
+    },
+    {
+        "Aggregate": 62.75,
+        "ATAR": 71.50
+    },
+    {
+        "Aggregate": 62.70,
+        "ATAR": 71.40
+    },
+    {
+        "Aggregate": 62.65,
+        "ATAR": 71.35
+    },
+    {
+        "Aggregate": 62.60,
+        "ATAR": 71.25
+    },
+    {
+        "Aggregate": 62.55,
+        "ATAR": 71.20
+    },
+    {
+        "Aggregate": 62.50,
+        "ATAR": 71.15
+    },
+    {
+        "Aggregate": 62.45,
+        "ATAR": 71.10
+    },
+    {
+        "Aggregate": 62.40,
+        "ATAR": 71.00
+    },
+    {
+        "Aggregate": 62.35,
+        "ATAR": 70.90
+    },
+    {
+        "Aggregate": 62.30,
+        "ATAR": 70.85
+    },
+    {
+        "Aggregate": 62.25,
+        "ATAR": 70.75
+    },
+    {
+        "Aggregate": 62.20,
+        "ATAR": 70.65
+    },
+    {
+        "Aggregate": 62.15,
+        "ATAR": 70.60
+    },
+    {
+        "Aggregate": 62.10,
+        "ATAR": 70.50
+    },
+    {
+        "Aggregate": 62.05,
+        "ATAR": 70.40
+    },
+    {
+        "Aggregate": 62.00,
+        "ATAR": 70.35
+    },
+    {
+        "Aggregate": 61.95,
+        "ATAR": 70.30
+    },
+    {
+        "Aggregate": 61.90,
+        "ATAR": 70.25
+    },
+    {
+        "Aggregate": 61.85,
+        "ATAR": 70.20
+    },
+    {
+        "Aggregate": 61.80,
+        "ATAR": 70.15
+    },
+    {
+        "Aggregate": 61.75,
+        "ATAR": 70.05
+    },
+    {
+        "Aggregate": 61.70,
+        "ATAR": 70.00
+    },
+    {
+        "Aggregate": 61.65,
+        "ATAR": 69.95
+    },
+    {
+        "Aggregate": 61.60,
+        "ATAR": 69.90
+    },
+    {
+        "Aggregate": 61.55,
+        "ATAR": 69.85
+    },
+    {
+        "Aggregate": 61.50,
+        "ATAR": 69.75
+    },
+    {
+        "Aggregate": 61.45,
+        "ATAR": 69.65
+    },
+    {
+        "Aggregate": 61.40,
+        "ATAR": 69.60
+    },
+    {
+        "Aggregate": 61.35,
+        "ATAR": 69.55
+    },
+    {
+        "Aggregate": 61.30,
+        "ATAR": 69.45
+    },
+    {
+        "Aggregate": 61.25,
+        "ATAR": 69.35
+    },
+    {
+        "Aggregate": 61.20,
+        "ATAR": 69.30
+    },
+    {
+        "Aggregate": 61.15,
+        "ATAR": 69.20
+    },
+    {
+        "Aggregate": 61.10,
+        "ATAR": 69.10
+    },
+    {
+        "Aggregate": 61.05,
+        "ATAR": 69.05
+    },
+    {
+        "Aggregate": 61.00,
+        "ATAR": 69.00
+    },
+    {
+        "Aggregate": 60.95,
+        "ATAR": 68.90
+    },
+    {
+        "Aggregate": 60.90,
+        "ATAR": 68.85
+    },
+    {
+        "Aggregate": 60.85,
+        "ATAR": 68.75
+    },
+    {
+        "Aggregate": 60.80,
+        "ATAR": 68.70
+    },
+    {
+        "Aggregate": 60.75,
+        "ATAR": 68.60
+    },
+    {
+        "Aggregate": 60.70,
+        "ATAR": 68.50
+    },
+    {
+        "Aggregate": 60.65,
+        "ATAR": 68.45
+    },
+    {
+        "Aggregate": 60.60,
+        "ATAR": 68.40
+    },
+    {
+        "Aggregate": 60.55,
+        "ATAR": 68.35
+    },
+    {
+        "Aggregate": 60.50,
+        "ATAR": 68.30
+    },
+    {
+        "Aggregate": 60.45,
+        "ATAR": 68.25
+    },
+    {
+        "Aggregate": 60.40,
+        "ATAR": 68.20
+    },
+    {
+        "Aggregate": 60.35,
+        "ATAR": 68.10
+    },
+    {
+        "Aggregate": 60.30,
+        "ATAR": 68.00
+    },
+    {
+        "Aggregate": 60.25,
+        "ATAR": 67.95
+    },
+    {
+        "Aggregate": 60.20,
+        "ATAR": 67.85
+    },
+    {
+        "Aggregate": 60.15,
+        "ATAR": 67.80
+    },
+    {
+        "Aggregate": 60.10,
+        "ATAR": 67.75
+    },
+    {
+        "Aggregate": 60.05,
+        "ATAR": 67.70
+    },
+    {
+        "Aggregate": 60.00,
+        "ATAR": 67.60
+    },
+    {
+        "Aggregate": 59.95,
+        "ATAR": 67.50
+    },
+    {
+        "Aggregate": 59.90,
+        "ATAR": 67.45
+    },
+    {
+        "Aggregate": 59.85,
+        "ATAR": 67.40
+    },
+    {
+        "Aggregate": 59.80,
+        "ATAR": 67.30
+    },
+    {
+        "Aggregate": 59.75,
+        "ATAR": 67.25
+    },
+    {
+        "Aggregate": 59.70,
+        "ATAR": 67.15
+    },
+    {
+        "Aggregate": 59.65,
+        "ATAR": 67.10
+    },
+    {
+        "Aggregate": 59.60,
+        "ATAR": 67.05
+    },
+    {
+        "Aggregate": 59.55,
+        "ATAR": 67.00
+    },
+    {
+        "Aggregate": 59.50,
+        "ATAR": 66.90
+    },
+    {
+        "Aggregate": 59.45,
+        "ATAR": 66.85
+    },
+    {
+        "Aggregate": 59.40,
+        "ATAR": 66.75
+    },
+    {
+        "Aggregate": 59.35,
+        "ATAR": 66.65
+    },
+    {
+        "Aggregate": 59.30,
+        "ATAR": 66.60
+    },
+    {
+        "Aggregate": 59.25,
+        "ATAR": 66.50
+    },
+    {
+        "Aggregate": 59.20,
+        "ATAR": 66.45
+    },
+    {
+        "Aggregate": 59.15,
+        "ATAR": 66.35
+    },
+    {
+        "Aggregate": 59.10,
+        "ATAR": 66.30
+    },
+    {
+        "Aggregate": 59.05,
+        "ATAR": 66.20
+    },
+    {
+        "Aggregate": 59.00,
+        "ATAR": 66.15
+    },
+    {
+        "Aggregate": 58.95,
+        "ATAR": 66.05
+    },
+    {
+        "Aggregate": 58.90,
+        "ATAR": 66.00
+    },
+    {
+        "Aggregate": 58.85,
+        "ATAR": 65.95
+    },
+    {
+        "Aggregate": 58.80,
+        "ATAR": 65.85
+    },
+    {
+        "Aggregate": 58.75,
+        "ATAR": 65.75
+    },
+    {
+        "Aggregate": 58.70,
+        "ATAR": 65.70
+    },
+    {
+        "Aggregate": 58.65,
+        "ATAR": 65.60
+    },
+    {
+        "Aggregate": 58.60,
+        "ATAR": 65.55
+    },
+    {
+        "Aggregate": 58.55,
+        "ATAR": 65.45
+    },
+    {
+        "Aggregate": 58.50,
+        "ATAR": 65.40
+    },
+    {
+        "Aggregate": 58.45,
+        "ATAR": 65.30
+    },
+    {
+        "Aggregate": 58.40,
+        "ATAR": 65.20
+    },
+    {
+        "Aggregate": 58.35,
+        "ATAR": 65.15
+    },
+    {
+        "Aggregate": 58.30,
+        "ATAR": 65.10
+    },
+    {
+        "Aggregate": 58.25,
+        "ATAR": 65.05
+    },
+    {
+        "Aggregate": 58.20,
+        "ATAR": 64.95
+    },
+    {
+        "Aggregate": 58.15,
+        "ATAR": 64.85
+    },
+    {
+        "Aggregate": 58.10,
+        "ATAR": 64.80
+    },
+    {
+        "Aggregate": 58.05,
+        "ATAR": 64.75
+    },
+    {
+        "Aggregate": 58.00,
+        "ATAR": 64.65
+    },
+    {
+        "Aggregate": 57.95,
+        "ATAR": 64.60
+    },
+    {
+        "Aggregate": 57.90,
+        "ATAR": 64.50
+    },
+    {
+        "Aggregate": 57.85,
+        "ATAR": 64.45
+    },
+    {
+        "Aggregate": 57.80,
+        "ATAR": 64.40
+    },
+    {
+        "Aggregate": 57.75,
+        "ATAR": 64.35
+    },
+    {
+        "Aggregate": 57.70,
+        "ATAR": 64.25
+    },
+    {
+        "Aggregate": 57.65,
+        "ATAR": 64.20
+    },
+    {
+        "Aggregate": 57.60,
+        "ATAR": 64.05
+    },
+    {
+        "Aggregate": 57.55,
+        "ATAR": 64.00
+    },
+    {
+        "Aggregate": 57.50,
+        "ATAR": 63.90
+    },
+    {
+        "Aggregate": 57.45,
+        "ATAR": 63.80
+    },
+    {
+        "Aggregate": 57.40,
+        "ATAR": 63.80
+    },
+    {
+        "Aggregate": 57.35,
+        "ATAR": 63.75
+    },
+    {
+        "Aggregate": 57.30,
+        "ATAR": 63.70
+    },
+    {
+        "Aggregate": 57.25,
+        "ATAR": 63.60
+    },
+    {
+        "Aggregate": 57.20,
+        "ATAR": 63.55
+    },
+    {
+        "Aggregate": 57.15,
+        "ATAR": 63.45
+    },
+    {
+        "Aggregate": 57.10,
+        "ATAR": 63.40
+    },
+    {
+        "Aggregate": 57.05,
+        "ATAR": 63.30
+    },
+    {
+        "Aggregate": 57.00,
+        "ATAR": 63.25
+    },
+    {
+        "Aggregate": 56.95,
+        "ATAR": 63.15
+    },
+    {
+        "Aggregate": 56.90,
+        "ATAR": 63.10
+    },
+    {
+        "Aggregate": 56.85,
+        "ATAR": 63.05
+    },
+    {
+        "Aggregate": 56.80,
+        "ATAR": 62.95
+    },
+    {
+        "Aggregate": 56.75,
+        "ATAR": 62.90
+    },
+    {
+        "Aggregate": 56.70,
+        "ATAR": 62.80
+    },
+    {
+        "Aggregate": 56.65,
+        "ATAR": 62.70
+    },
+    {
+        "Aggregate": 56.60,
+        "ATAR": 62.65
+    },
+    {
+        "Aggregate": 56.55,
+        "ATAR": 62.55
+    },
+    {
+        "Aggregate": 56.50,
+        "ATAR": 62.45
+    },
+    {
+        "Aggregate": 56.45,
+        "ATAR": 62.40
+    },
+    {
+        "Aggregate": 56.40,
+        "ATAR": 62.35
+    },
+    {
+        "Aggregate": 56.35,
+        "ATAR": 62.30
+    },
+    {
+        "Aggregate": 56.30,
+        "ATAR": 62.20
+    },
+    {
+        "Aggregate": 56.25,
+        "ATAR": 62.10
+    },
+    {
+        "Aggregate": 56.20,
+        "ATAR": 62.05
+    },
+    {
+        "Aggregate": 56.15,
+        "ATAR": 61.95
+    },
+    {
+        "Aggregate": 56.10,
+        "ATAR": 61.85
+    },
+    {
+        "Aggregate": 56.05,
+        "ATAR": 61.80
+    },
+    {
+        "Aggregate": 56.00,
+        "ATAR": 61.75
+    },
+    {
+        "Aggregate": 55.95,
+        "ATAR": 61.70
+    },
+    {
+        "Aggregate": 55.90,
+        "ATAR": 61.60
+    },
+    {
+        "Aggregate": 55.85,
+        "ATAR": 61.55
+    },
+    {
+        "Aggregate": 55.80,
+        "ATAR": 61.45
+    },
+    {
+        "Aggregate": 55.75,
+        "ATAR": 61.35
+    },
+    {
+        "Aggregate": 55.70,
+        "ATAR": 61.30
+    },
+    {
+        "Aggregate": 55.65,
+        "ATAR": 61.20
+    },
+    {
+        "Aggregate": 55.60,
+        "ATAR": 61.10
+    },
+    {
+        "Aggregate": 55.55,
+        "ATAR": 61.05
+    },
+    {
+        "Aggregate": 55.50,
+        "ATAR": 60.95
+    },
+    {
+        "Aggregate": 55.45,
+        "ATAR": 60.85
+    },
+    {
+        "Aggregate": 55.40,
+        "ATAR": 60.80
+    },
+    {
+        "Aggregate": 55.35,
+        "ATAR": 60.70
+    },
+    {
+        "Aggregate": 55.30,
+        "ATAR": 60.65
+    },
+    {
+        "Aggregate": 55.25,
+        "ATAR": 60.60
+    },
+    {
+        "Aggregate": 55.20,
+        "ATAR": 60.50
+    },
+    {
+        "Aggregate": 55.15,
+        "ATAR": 60.45
+    },
+    {
+        "Aggregate": 55.10,
+        "ATAR": 60.40
+    },
+    {
+        "Aggregate": 55.05,
+        "ATAR": 60.35
+    },
+    {
+        "Aggregate": 55.00,
+        "ATAR": 60.25
+    },
+    {
+        "Aggregate": 54.95,
+        "ATAR": 60.20
+    },
+    {
+        "Aggregate": 54.90,
+        "ATAR": 60.15
+    },
+    {
+        "Aggregate": 54.85,
+        "ATAR": 60.05
+    },
+    {
+        "Aggregate": 54.80,
+        "ATAR": 59.95
+    },
+    {
+        "Aggregate": 54.75,
+        "ATAR": 59.85
+    },
+    {
+        "Aggregate": 54.70,
+        "ATAR": 59.80
+    },
+    {
+        "Aggregate": 54.65,
+        "ATAR": 59.75
+    },
+    {
+        "Aggregate": 54.60,
+        "ATAR": 59.70
+    },
+    {
+        "Aggregate": 54.55,
+        "ATAR": 59.65
+    },
+    {
+        "Aggregate": 54.50,
+        "ATAR": 59.55
+    },
+    {
+        "Aggregate": 54.45,
+        "ATAR": 59.50
+    },
+    {
+        "Aggregate": 54.40,
+        "ATAR": 59.45
+    },
+    {
+        "Aggregate": 54.35,
+        "ATAR": 59.40
+    },
+    {
+        "Aggregate": 54.30,
+        "ATAR": 59.30
+    },
+    {
+        "Aggregate": 54.25,
+        "ATAR": 59.20
+    },
+    {
+        "Aggregate": 54.20,
+        "ATAR": 59.15
+    },
+    {
+        "Aggregate": 54.15,
+        "ATAR": 59.05
+    },
+    {
+        "Aggregate": 54.10,
+        "ATAR": 58.95
+    },
+    {
+        "Aggregate": 54.05,
+        "ATAR": 58.90
+    },
+    {
+        "Aggregate": 54.00,
+        "ATAR": 58.80
+    },
+    {
+        "Aggregate": 53.95,
+        "ATAR": 58.75
+    },
+    {
+        "Aggregate": 53.90,
+        "ATAR": 58.70
+    },
+    {
+        "Aggregate": 53.85,
+        "ATAR": 58.65
+    },
+    {
+        "Aggregate": 53.80,
+        "ATAR": 58.60
+    },
+    {
+        "Aggregate": 53.75,
+        "ATAR": 58.55
+    },
+    {
+        "Aggregate": 53.70,
+        "ATAR": 58.50
+    },
+    {
+        "Aggregate": 53.65,
+        "ATAR": 58.40
+    },
+    {
+        "Aggregate": 53.60,
+        "ATAR": 58.35
+    },
+    {
+        "Aggregate": 53.55,
+        "ATAR": 58.25
+    },
+    {
+        "Aggregate": 53.50,
+        "ATAR": 58.15
+    },
+    {
+        "Aggregate": 53.45,
+        "ATAR": 58.10
+    },
+    {
+        "Aggregate": 53.40,
+        "ATAR": 58.00
+    },
+    {
+        "Aggregate": 53.35,
+        "ATAR": 57.95
+    },
+    {
+        "Aggregate": 53.30,
+        "ATAR": 57.85
+    },
+    {
+        "Aggregate": 53.25,
+        "ATAR": 57.80
+    },
+    {
+        "Aggregate": 53.20,
+        "ATAR": 57.70
+    },
+    {
+        "Aggregate": 53.15,
+        "ATAR": 57.65
+    },
+    {
+        "Aggregate": 53.10,
+        "ATAR": 57.55
+    },
+    {
+        "Aggregate": 53.05,
+        "ATAR": 57.50
+    },
+    {
+        "Aggregate": 53.00,
+        "ATAR": 57.45
+    },
+    {
+        "Aggregate": 52.95,
+        "ATAR": 57.40
+    },
+    {
+        "Aggregate": 52.90,
+        "ATAR": 57.35
+    },
+    {
+        "Aggregate": 52.85,
+        "ATAR": 57.30
+    },
+    {
+        "Aggregate": 52.80,
+        "ATAR": 57.25
+    },
+    {
+        "Aggregate": 52.75,
+        "ATAR": 57.15
+    },
+    {
+        "Aggregate": 52.70,
+        "ATAR": 57.05
+    },
+    {
+        "Aggregate": 52.65,
+        "ATAR": 57.00
+    },
+    {
+        "Aggregate": 52.60,
+        "ATAR": 56.90
+    },
+    {
+        "Aggregate": 52.55,
+        "ATAR": 56.85
+    },
+    {
+        "Aggregate": 52.50,
+        "ATAR": 56.80
+    },
+    {
+        "Aggregate": 52.45,
+        "ATAR": 56.75
+    },
+    {
+        "Aggregate": 52.40,
+        "ATAR": 56.70
+    },
+    {
+        "Aggregate": 52.35,
+        "ATAR": 56.65
+    },
+    {
+        "Aggregate": 52.30,
+        "ATAR": 56.60
+    },
+    {
+        "Aggregate": 52.25,
+        "ATAR": 56.55
+    },
+    {
+        "Aggregate": 52.20,
+        "ATAR": 56.45
+    },
+    {
+        "Aggregate": 52.15,
+        "ATAR": 56.40
+    },
+    {
+        "Aggregate": 52.10,
+        "ATAR": 56.35
+    },
+    {
+        "Aggregate": 52.05,
+        "ATAR": 56.25
+    },
+    {
+        "Aggregate": 52.00,
+        "ATAR": 56.20
+    },
+    {
+        "Aggregate": 51.95,
+        "ATAR": 56.15
+    },
+    {
+        "Aggregate": 51.90,
+        "ATAR": 56.10
+    },
+    {
+        "Aggregate": 51.85,
+        "ATAR": 56.00
+    },
+    {
+        "Aggregate": 51.80,
+        "ATAR": 55.90
+    },
+    {
+        "Aggregate": 51.75,
+        "ATAR": 55.80
+    },
+    {
+        "Aggregate": 51.70,
+        "ATAR": 55.75
+    },
+    {
+        "Aggregate": 51.65,
+        "ATAR": 55.65
+    },
+    {
+        "Aggregate": 51.60,
+        "ATAR": 55.60
+    },
+    {
+        "Aggregate": 51.55,
+        "ATAR": 55.55
+    },
+    {
+        "Aggregate": 51.50,
+        "ATAR": 55.45
+    },
+    {
+        "Aggregate": 51.45,
+        "ATAR": 55.35
+    },
+    {
+        "Aggregate": 51.40,
+        "ATAR": 55.25
+    },
+    {
+        "Aggregate": 51.35,
+        "ATAR": 55.20
+    },
+    {
+        "Aggregate": 51.30,
+        "ATAR": 55.15
+    },
+    {
+        "Aggregate": 51.25,
+        "ATAR": 55.10
+    },
+    {
+        "Aggregate": 51.20,
+        "ATAR": 55.00
+    },
+    {
+        "Aggregate": 51.15,
+        "ATAR": 54.95
+    },
+    {
+        "Aggregate": 51.10,
+        "ATAR": 54.90
+    },
+    {
+        "Aggregate": 51.05,
+        "ATAR": 54.85
+    },
+    {
+        "Aggregate": 51.00,
+        "ATAR": 54.80
+    },
+    {
+        "Aggregate": 50.95,
+        "ATAR": 54.75
+    },
+    {
+        "Aggregate": 50.90,
+        "ATAR": 54.65
+    },
+    {
+        "Aggregate": 50.85,
+        "ATAR": 54.60
+    },
+    {
+        "Aggregate": 50.80,
+        "ATAR": 54.50
+    },
+    {
+        "Aggregate": 50.75,
+        "ATAR": 54.45
+    },
+    {
+        "Aggregate": 50.70,
+        "ATAR": 54.40
+    },
+    {
+        "Aggregate": 50.65,
+        "ATAR": 54.35
+    },
+    {
+        "Aggregate": 50.60,
+        "ATAR": 54.30
+    },
+    {
+        "Aggregate": 50.55,
+        "ATAR": 54.25
+    },
+    {
+        "Aggregate": 50.50,
+        "ATAR": 54.15
+    },
+    {
+        "Aggregate": 50.45,
+        "ATAR": 54.05
+    },
+    {
+        "Aggregate": 50.40,
+        "ATAR": 54.00
+    },
+    {
+        "Aggregate": 50.35,
+        "ATAR": 53.95
+    },
+    {
+        "Aggregate": 50.30,
+        "ATAR": 53.90
+    },
+    {
+        "Aggregate": 50.25,
+        "ATAR": 53.85
+    },
+    {
+        "Aggregate": 50.20,
+        "ATAR": 53.75
+    },
+    {
+        "Aggregate": 50.15,
+        "ATAR": 53.70
+    },
+    {
+        "Aggregate": 50.10,
+        "ATAR": 53.65
+    },
+    {
+        "Aggregate": 50.05,
+        "ATAR": 53.55
+    },
+    {
+        "Aggregate": 50.00,
+        "ATAR": 53.45
+    },
+    {
+        "Aggregate": 49.95,
+        "ATAR": 53.35
+    },
+    {
+        "Aggregate": 49.90,
+        "ATAR": 53.30
+    },
+    {
+        "Aggregate": 49.85,
+        "ATAR": 53.25
+    },
+    {
+        "Aggregate": 49.80,
+        "ATAR": 53.20
+    },
+    {
+        "Aggregate": 49.75,
+        "ATAR": 53.15
+    },
+    {
+        "Aggregate": 49.70,
+        "ATAR": 53.10
+    },
+    {
+        "Aggregate": 49.65,
+        "ATAR": 53.00
+    },
+    {
+        "Aggregate": 49.60,
+        "ATAR": 52.90
+    },
+    {
+        "Aggregate": 49.55,
+        "ATAR": 52.75
+    },
+    {
+        "Aggregate": 49.50,
+        "ATAR": 52.70
+    },
+    {
+        "Aggregate": 49.45,
+        "ATAR": 52.60
+    },
+    {
+        "Aggregate": 49.40,
+        "ATAR": 52.55
+    },
+    {
+        "Aggregate": 49.35,
+        "ATAR": 52.50
+    },
+    {
+        "Aggregate": 49.30,
+        "ATAR": 52.45
+    },
+    {
+        "Aggregate": 49.25,
+        "ATAR": 52.35
+    },
+    {
+        "Aggregate": 49.20,
+        "ATAR": 52.25
+    },
+    {
+        "Aggregate": 49.15,
+        "ATAR": 52.20
+    },
+    {
+        "Aggregate": 49.10,
+        "ATAR": 52.10
+    },
+    {
+        "Aggregate": 49.05,
+        "ATAR": 52.05
+    },
+    {
+        "Aggregate": 49.00,
+        "ATAR": 52.00
+    },
+    {
+        "Aggregate": 48.95,
+        "ATAR": 51.95
+    },
+    {
+        "Aggregate": 48.90,
+        "ATAR": 51.85
+    },
+    {
+        "Aggregate": 48.85,
+        "ATAR": 51.80
+    },
+    {
+        "Aggregate": 48.80,
+        "ATAR": 51.75
+    },
+    {
+        "Aggregate": 48.75,
+        "ATAR": 51.70
+    },
+    {
+        "Aggregate": 48.70,
+        "ATAR": 51.65
+    },
+    {
+        "Aggregate": 48.65,
+        "ATAR": 51.60
+    },
+    {
+        "Aggregate": 48.60,
+        "ATAR": 51.55
+    },
+    {
+        "Aggregate": 48.55,
+        "ATAR": 51.50
+    },
+    {
+        "Aggregate": 48.50,
+        "ATAR": 51.40
+    },
+    {
+        "Aggregate": 48.45,
+        "ATAR": 51.35
+    },
+    {
+        "Aggregate": 48.40,
+        "ATAR": 51.25
+    },
+    {
+        "Aggregate": 48.35,
+        "ATAR": 51.20
+    },
+    {
+        "Aggregate": 48.30,
+        "ATAR": 51.15
+    },
+    {
+        "Aggregate": 48.25,
+        "ATAR": 51.05
+    },
+    {
+        "Aggregate": 48.20,
+        "ATAR": 50.95
+    },
+    {
+        "Aggregate": 48.15,
+        "ATAR": 50.90
+    },
+    {
+        "Aggregate": 48.10,
+        "ATAR": 50.80
+    },
+    {
+        "Aggregate": 48.05,
+        "ATAR": 50.70
+    },
+    {
+        "Aggregate": 48.00,
+        "ATAR": 50.65
+    },
+    {
+        "Aggregate": 47.95,
+        "ATAR": 50.60
+    },
+    {
+        "Aggregate": 47.90,
+        "ATAR": 50.55
+    },
+    {
+        "Aggregate": 47.85,
+        "ATAR": 50.45
+    },
+    {
+        "Aggregate": 47.80,
+        "ATAR": 50.40
+    },
+    {
+        "Aggregate": 47.75,
+        "ATAR": 50.30
+    },
+    {
+        "Aggregate": 47.70,
+        "ATAR": 50.25
+    },
+    {
+        "Aggregate": 47.65,
+        "ATAR": 50.20
+    },
+    {
+        "Aggregate": 47.60,
+        "ATAR": 50.10
+    },
+    {
+        "Aggregate": 47.55,
+        "ATAR": 50.05
+    },
+    {
+        "Aggregate": 47.50,
+        "ATAR": 50.00
+    },
+    {
+        "Aggregate": 47.45,
+        "ATAR": 49.95
+    },
+    {
+        "Aggregate": 47.40,
+        "ATAR": 49.90
+    },
+    {
+        "Aggregate": 47.35,
+        "ATAR": 49.80
+    },
+    {
+        "Aggregate": 47.30,
+        "ATAR": 49.75
+    },
+    {
+        "Aggregate": 47.25,
+        "ATAR": 49.65
+    },
+    {
+        "Aggregate": 47.20,
+        "ATAR": 49.60
+    },
+    {
+        "Aggregate": 47.15,
+        "ATAR": 49.50
+    },
+    {
+        "Aggregate": 47.10,
+        "ATAR": 49.45
+    },
+    {
+        "Aggregate": 47.05,
+        "ATAR": 49.40
+    },
+    {
+        "Aggregate": 47.00,
+        "ATAR": 49.35
+    },
+    {
+        "Aggregate": 46.95,
+        "ATAR": 49.25
+    },
+    {
+        "Aggregate": 46.90,
+        "ATAR": 49.20
+    },
+    {
+        "Aggregate": 46.85,
+        "ATAR": 49.15
+    },
+    {
+        "Aggregate": 46.80,
+        "ATAR": 49.10
+    },
+    {
+        "Aggregate": 46.75,
+        "ATAR": 49.00
+    },
+    {
+        "Aggregate": 46.70,
+        "ATAR": 48.95
+    },
+    {
+        "Aggregate": 46.65,
+        "ATAR": 48.90
+    },
+    {
+        "Aggregate": 46.60,
+        "ATAR": 48.80
+    },
+    {
+        "Aggregate": 46.55,
+        "ATAR": 48.70
+    },
+    {
+        "Aggregate": 46.50,
+        "ATAR": 48.65
+    },
+    {
+        "Aggregate": 46.45,
+        "ATAR": 48.55
+    },
+    {
+        "Aggregate": 46.40,
+        "ATAR": 48.45
+    },
+    {
+        "Aggregate": 46.35,
+        "ATAR": 48.40
+    },
+    {
+        "Aggregate": 46.30,
+        "ATAR": 48.30
+    },
+    {
+        "Aggregate": 46.25,
+        "ATAR": 48.25
+    },
+    {
+        "Aggregate": 46.20,
+        "ATAR": 48.20
+    },
+    {
+        "Aggregate": 46.15,
+        "ATAR": 48.10
+    },
+    {
+        "Aggregate": 46.10,
+        "ATAR": 48.05
+    },
+    {
+        "Aggregate": 46.05,
+        "ATAR": 47.95
+    },
+    {
+        "Aggregate": 46.00,
+        "ATAR": 47.90
+    },
+    {
+        "Aggregate": 45.95,
+        "ATAR": 47.85
+    },
+    {
+        "Aggregate": 45.90,
+        "ATAR": 47.80
+    },
+    {
+        "Aggregate": 45.85,
+        "ATAR": 47.70
+    },
+    {
+        "Aggregate": 45.80,
+        "ATAR": 47.60
+    },
+    {
+        "Aggregate": 45.75,
+        "ATAR": 47.55
+    },
+    {
+        "Aggregate": 45.70,
+        "ATAR": 47.45
+    },
+    {
+        "Aggregate": 45.65,
+        "ATAR": 47.40
+    },
+    {
+        "Aggregate": 45.60,
+        "ATAR": 47.30
+    },
+    {
+        "Aggregate": 45.55,
+        "ATAR": 47.20
+    },
+    {
+        "Aggregate": 45.50,
+        "ATAR": 47.15
+    },
+    {
+        "Aggregate": 45.45,
+        "ATAR": 47.05
+    },
+    {
+        "Aggregate": 45.40,
+        "ATAR": 47.00
+    },
+    {
+        "Aggregate": 45.35,
+        "ATAR": 46.95
+    },
+    {
+        "Aggregate": 45.30,
+        "ATAR": 46.90
+    },
+    {
+        "Aggregate": 45.25,
+        "ATAR": 46.85
+    },
+    {
+        "Aggregate": 45.20,
+        "ATAR": 46.75
+    },
+    {
+        "Aggregate": 45.15,
+        "ATAR": 46.65
+    },
+    {
+        "Aggregate": 45.10,
+        "ATAR": 46.65
+    },
+    {
+        "Aggregate": 45.05,
+        "ATAR": 46.60
+    },
+    {
+        "Aggregate": 45.00,
+        "ATAR": 46.55
+    },
+    {
+        "Aggregate": 44.95,
+        "ATAR": 46.45
+    },
+    {
+        "Aggregate": 44.90,
+        "ATAR": 46.40
+    },
+    {
+        "Aggregate": 44.85,
+        "ATAR": 46.35
+    },
+    {
+        "Aggregate": 44.80,
+        "ATAR": 46.30
+    },
+    {
+        "Aggregate": 44.75,
+        "ATAR": 46.25
+    },
+    {
+        "Aggregate": 44.70,
+        "ATAR": 46.20
+    },
+    {
+        "Aggregate": 44.65,
+        "ATAR": 46.15
+    },
+    {
+        "Aggregate": 44.60,
+        "ATAR": 46.10
+    },
+    {
+        "Aggregate": 44.55,
+        "ATAR": 46.00
+    },
+    {
+        "Aggregate": 44.50,
+        "ATAR": 45.95
+    },
+    {
+        "Aggregate": 44.45,
+        "ATAR": 45.85
+    },
+    {
+        "Aggregate": 44.40,
+        "ATAR": 45.80
+    },
+    {
+        "Aggregate": 44.35,
+        "ATAR": 45.70
+    },
+    {
+        "Aggregate": 44.30,
+        "ATAR": 45.70
+    },
+    {
+        "Aggregate": 44.25,
+        "ATAR": 45.65
+    },
+    {
+        "Aggregate": 44.20,
+        "ATAR": 45.55
+    },
+    {
+        "Aggregate": 44.15,
+        "ATAR": 45.45
+    },
+    {
+        "Aggregate": 44.10,
+        "ATAR": 45.40
+    },
+    {
+        "Aggregate": 44.05,
+        "ATAR": 45.30
+    },
+    {
+        "Aggregate": 44.00,
+        "ATAR": 45.20
+    },
+    {
+        "Aggregate": 43.95,
+        "ATAR": 45.15
+    },
+    {
+        "Aggregate": 43.90,
+        "ATAR": 45.10
+    },
+    {
+        "Aggregate": 43.85,
+        "ATAR": 45.00
+    },
+    {
+        "Aggregate": 43.80,
+        "ATAR": 44.95
+    },
+    {
+        "Aggregate": 43.75,
+        "ATAR": 44.90
+    },
+    {
+        "Aggregate": 43.70,
+        "ATAR": 44.80
+    },
+    {
+        "Aggregate": 43.65,
+        "ATAR": 44.75
+    },
+    {
+        "Aggregate": 43.60,
+        "ATAR": 44.65
+    },
+    {
+        "Aggregate": 43.55,
+        "ATAR": 44.60
+    },
+    {
+        "Aggregate": 43.50,
+        "ATAR": 44.50
+    },
+    {
+        "Aggregate": 43.45,
+        "ATAR": 44.40
+    },
+    {
+        "Aggregate": 43.40,
+        "ATAR": 44.35
+    },
+    {
+        "Aggregate": 43.35,
+        "ATAR": 44.35
+    },
+    {
+        "Aggregate": 43.30,
+        "ATAR": 44.25
+    },
+    {
+        "Aggregate": 43.25,
+        "ATAR": 44.20
+    },
+    {
+        "Aggregate": 43.20,
+        "ATAR": 44.15
+    },
+    {
+        "Aggregate": 43.15,
+        "ATAR": 44.10
+    },
+    {
+        "Aggregate": 43.10,
+        "ATAR": 44.00
+    },
+    {
+        "Aggregate": 43.05,
+        "ATAR": 43.95
+    },
+    {
+        "Aggregate": 43.00,
+        "ATAR": 43.85
+    },
+    {
+        "Aggregate": 42.95,
+        "ATAR": 43.80
+    },
+    {
+        "Aggregate": 42.90,
+        "ATAR": 43.70
+    },
+    {
+        "Aggregate": 42.85,
+        "ATAR": 43.60
+    },
+    {
+        "Aggregate": 42.80,
+        "ATAR": 43.55
+    },
+    {
+        "Aggregate": 42.75,
+        "ATAR": 43.50
+    },
+    {
+        "Aggregate": 42.70,
+        "ATAR": 43.45
+    },
+    {
+        "Aggregate": 42.65,
+        "ATAR": 43.40
+    },
+    {
+        "Aggregate": 42.60,
+        "ATAR": 43.30
+    },
+    {
+        "Aggregate": 42.55,
+        "ATAR": 43.20
+    },
+    {
+        "Aggregate": 42.50,
+        "ATAR": 43.15
+    },
+    {
+        "Aggregate": 42.45,
+        "ATAR": 43.05
+    },
+    {
+        "Aggregate": 42.40,
+        "ATAR": 42.95
+    },
+    {
+        "Aggregate": 42.35,
+        "ATAR": 42.85
+    },
+    {
+        "Aggregate": 42.30,
+        "ATAR": 42.75
+    },
+    {
+        "Aggregate": 42.25,
+        "ATAR": 42.65
+    },
+    {
+        "Aggregate": 42.20,
+        "ATAR": 42.55
+    },
+    {
+        "Aggregate": 42.15,
+        "ATAR": 42.50
+    },
+    {
+        "Aggregate": 42.10,
+        "ATAR": 42.45
+    },
+    {
+        "Aggregate": 42.05,
+        "ATAR": 42.40
+    },
+    {
+        "Aggregate": 42.00,
+        "ATAR": 42.35
+    },
+    {
+        "Aggregate": 41.95,
+        "ATAR": 42.35
+    },
+    {
+        "Aggregate": 41.90,
+        "ATAR": 42.25
+    },
+    {
+        "Aggregate": 41.85,
+        "ATAR": 42.20
+    },
+    {
+        "Aggregate": 41.80,
+        "ATAR": 42.10
+    },
+    {
+        "Aggregate": 41.75,
+        "ATAR": 42.05
+    },
+    {
+        "Aggregate": 41.70,
+        "ATAR": 41.95
+    },
+    {
+        "Aggregate": 41.65,
+        "ATAR": 41.85
+    },
+    {
+        "Aggregate": 41.60,
+        "ATAR": 41.85
+    },
+    {
+        "Aggregate": 41.55,
+        "ATAR": 41.75
+    },
+    {
+        "Aggregate": 41.50,
+        "ATAR": 41.70
+    },
+    {
+        "Aggregate": 41.45,
+        "ATAR": 41.60
+    },
+    {
+        "Aggregate": 41.40,
+        "ATAR": 41.55
+    },
+    {
+        "Aggregate": 41.35,
+        "ATAR": 41.45
+    },
+    {
+        "Aggregate": 41.30,
+        "ATAR": 41.40
+    },
+    {
+        "Aggregate": 41.25,
+        "ATAR": 41.30
+    },
+    {
+        "Aggregate": 41.20,
+        "ATAR": 41.20
+    },
+    {
+        "Aggregate": 41.15,
+        "ATAR": 41.15
+    },
+    {
+        "Aggregate": 41.10,
+        "ATAR": 41.10
+    },
+    {
+        "Aggregate": 41.05,
+        "ATAR": 41.00
+    },
+    {
+        "Aggregate": 41.00,
+        "ATAR": 40.90
+    },
+    {
+        "Aggregate": 40.95,
+        "ATAR": 40.80
+    },
+    {
+        "Aggregate": 40.90,
+        "ATAR": 40.65
+    },
+    {
+        "Aggregate": 40.85,
+        "ATAR": 40.55
+    },
+    {
+        "Aggregate": 40.80,
+        "ATAR": 40.50
+    },
+    {
+        "Aggregate": 40.75,
+        "ATAR": 40.40
+    },
+    {
+        "Aggregate": 40.70,
+        "ATAR": 40.35
+    },
+    {
+        "Aggregate": 40.65,
+        "ATAR": 40.25
+    },
+    {
+        "Aggregate": 40.60,
+        "ATAR": 40.15
+    },
+    {
+        "Aggregate": 40.55,
+        "ATAR": 40.10
+    },
+    {
+        "Aggregate": 40.50,
+        "ATAR": 40.05
+    },
+    {
+        "Aggregate": 40.45,
+        "ATAR": 40.00
+    },
+    {
+        "Aggregate": 40.40,
+        "ATAR": 39.90
+    },
+    {
+        "Aggregate": 40.35,
+        "ATAR": 39.80
+    },
+    {
+        "Aggregate": 40.30,
+        "ATAR": 39.75
+    },
+    {
+        "Aggregate": 40.25,
+        "ATAR": 39.65
+    },
+    {
+        "Aggregate": 40.20,
+        "ATAR": 39.60
+    },
+    {
+        "Aggregate": 40.15,
+        "ATAR": 39.55
+    },
+    {
+        "Aggregate": 40.10,
+        "ATAR": 39.45
+    },
+    {
+        "Aggregate": 40.05,
+        "ATAR": 39.35
+    },
+    {
+        "Aggregate": 40.00,
+        "ATAR": 39.25
+    },
+    {
+        "Aggregate": 39.95,
+        "ATAR": 39.15
+    },
+    {
+        "Aggregate": 39.90,
+        "ATAR": 39.00
+    },
+    {
+        "Aggregate": 39.85,
+        "ATAR": 38.95
+    },
+    {
+        "Aggregate": 39.80,
+        "ATAR": 38.90
+    },
+    {
+        "Aggregate": 39.75,
+        "ATAR": 38.85
+    },
+    {
+        "Aggregate": 39.70,
+        "ATAR": 38.70
+    },
+    {
+        "Aggregate": 39.65,
+        "ATAR": 38.65
+    },
+    {
+        "Aggregate": 39.60,
+        "ATAR": 38.60
+    },
+    {
+        "Aggregate": 39.55,
+        "ATAR": 38.50
+    },
+    {
+        "Aggregate": 39.50,
+        "ATAR": 38.45
+    },
+    {
+        "Aggregate": 39.45,
+        "ATAR": 38.40
+    },
+    {
+        "Aggregate": 39.40,
+        "ATAR": 38.35
+    },
+    {
+        "Aggregate": 39.35,
+        "ATAR": 38.30
+    },
+    {
+        "Aggregate": 39.30,
+        "ATAR": 38.20
+    },
+    {
+        "Aggregate": 39.25,
+        "ATAR": 38.05
+    },
+    {
+        "Aggregate": 39.20,
+        "ATAR": 37.90
+    },
+    {
+        "Aggregate": 39.15,
+        "ATAR": 37.85
+    },
+    {
+        "Aggregate": 39.10,
+        "ATAR": 37.75
+    },
+    {
+        "Aggregate": 39.05,
+        "ATAR": 37.65
+    },
+    {
+        "Aggregate": 39.00,
+        "ATAR": 37.55
+    },
+    {
+        "Aggregate": 38.95,
+        "ATAR": 37.50
+    },
+    {
+        "Aggregate": 38.90,
+        "ATAR": 37.50
+    },
+    {
+        "Aggregate": 38.85,
+        "ATAR": 37.40
+    },
+    {
+        "Aggregate": 38.80,
+        "ATAR": 37.30
+    },
+    {
+        "Aggregate": 38.75,
+        "ATAR": 37.20
+    },
+    {
+        "Aggregate": 38.70,
+        "ATAR": 37.15
+    },
+    {
+        "Aggregate": 38.65,
+        "ATAR": 37.05
+    },
+    {
+        "Aggregate": 38.60,
+        "ATAR": 36.95
+    },
+    {
+        "Aggregate": 38.55,
+        "ATAR": 36.85
+    },
+    {
+        "Aggregate": 38.50,
+        "ATAR": 36.80
+    },
+    {
+        "Aggregate": 38.45,
+        "ATAR": 36.75
+    },
+    {
+        "Aggregate": 38.40,
+        "ATAR": 36.70
+    },
+    {
+        "Aggregate": 38.35,
+        "ATAR": 36.55
+    },
+    {
+        "Aggregate": 38.30,
+        "ATAR": 36.45
+    },
+    {
+        "Aggregate": 38.25,
+        "ATAR": 36.35
+    },
+    {
+        "Aggregate": 38.20,
+        "ATAR": 36.30
+    },
+    {
+        "Aggregate": 38.15,
+        "ATAR": 36.20
+    },
+    {
+        "Aggregate": 38.10,
+        "ATAR": 36.15
+    },
+    {
+        "Aggregate": 38.05,
+        "ATAR": 36.00
+    },
+    {
+        "Aggregate": 38.00,
+        "ATAR": 36.00
+    },
+    {
+        "Aggregate": 37.95,
+        "ATAR": 35.90
+    },
+    {
+        "Aggregate": 37.90,
+        "ATAR": 35.85
+    },
+    {
+        "Aggregate": 37.85,
+        "ATAR": 35.75
+    },
+    {
+        "Aggregate": 37.80,
+        "ATAR": 35.70
+    },
+    {
+        "Aggregate": 37.75,
+        "ATAR": 35.60
+    },
+    {
+        "Aggregate": 37.70,
+        "ATAR": 35.50
+    },
+    {
+        "Aggregate": 37.65,
+        "ATAR": 35.45
+    },
+    {
+        "Aggregate": 37.60,
+        "ATAR": 35.40
+    },
+    {
+        "Aggregate": 37.55,
+        "ATAR": 35.30
+    },
+    {
+        "Aggregate": 37.50,
+        "ATAR": 35.20
+    },
+    {
+        "Aggregate": 37.45,
+        "ATAR": 35.10
+    },
+    {
+        "Aggregate": 37.40,
+        "ATAR": 35.05
+    },
+    {
+        "Aggregate": 37.35,
+        "ATAR": 35.00
+    },
+    {
+        "Aggregate": 37.30,
+        "ATAR": 34.90
+    },
+    {
+        "Aggregate": 37.25,
+        "ATAR": 34.75
+    },
+    {
+        "Aggregate": 37.20,
+        "ATAR": 34.70
+    },
+    {
+        "Aggregate": 37.15,
+        "ATAR": 34.70
+    },
+    {
+        "Aggregate": 37.10,
+        "ATAR": 34.65
+    },
+    {
+        "Aggregate": 37.05,
+        "ATAR": 34.55
+    },
+    {
+        "Aggregate": 37.00,
+        "ATAR": 34.40
+    },
+    {
+        "Aggregate": 36.95,
+        "ATAR": 34.40
+    },
+    {
+        "Aggregate": 36.90,
+        "ATAR": 34.35
+    },
+    {
+        "Aggregate": 36.85,
+        "ATAR": 34.30
+    },
+    {
+        "Aggregate": 36.80,
+        "ATAR": 34.15
+    },
+    {
+        "Aggregate": 36.75,
+        "ATAR": 34.00
+    },
+    {
+        "Aggregate": 36.70,
+        "ATAR": 33.90
+    },
+    {
+        "Aggregate": 36.65,
+        "ATAR": 33.80
+    },
+    {
+        "Aggregate": 36.60,
+        "ATAR": 33.70
+    },
+    {
+        "Aggregate": 36.55,
+        "ATAR": 33.70
+    },
+    {
+        "Aggregate": 36.50,
+        "ATAR": 33.65
+    },
+    {
+        "Aggregate": 36.45,
+        "ATAR": 33.60
+    },
+    {
+        "Aggregate": 36.40,
+        "ATAR": 33.55
+    },
+    {
+        "Aggregate": 36.35,
+        "ATAR": 33.50
+    },
+    {
+        "Aggregate": 36.30,
+        "ATAR": 33.45
+    },
+    {
+        "Aggregate": 36.25,
+        "ATAR": 33.35
+    },
+    {
+        "Aggregate": 36.20,
+        "ATAR": 33.35
+    },
+    {
+        "Aggregate": 36.15,
+        "ATAR": 33.25
+    },
+    {
+        "Aggregate": 36.10,
+        "ATAR": 33.20
+    },
+    {
+        "Aggregate": 36.05,
+        "ATAR": 33.10
+    },
+    {
+        "Aggregate": 36.00,
+        "ATAR": 33.05
+    },
+    {
+        "Aggregate": 35.95,
+        "ATAR": 32.95
+    },
+    {
+        "Aggregate": 35.90,
+        "ATAR": 32.90
+    },
+    {
+        "Aggregate": 35.85,
+        "ATAR": 32.75
+    },
+    {
+        "Aggregate": 35.80,
+        "ATAR": 32.70
+    },
+    {
+        "Aggregate": 35.75,
+        "ATAR": 32.65
+    },
+    {
+        "Aggregate": 35.70,
+        "ATAR": 32.55
+    },
+    {
+        "Aggregate": 35.65,
+        "ATAR": 32.45
+    },
+    {
+        "Aggregate": 35.60,
+        "ATAR": 32.35
+    },
+    {
+        "Aggregate": 35.55,
+        "ATAR": 32.25
+    },
+    {
+        "Aggregate": 35.50,
+        "ATAR": 32.10
+    },
+    {
+        "Aggregate": 35.45,
+        "ATAR": 32.00
+    },
+    {
+        "Aggregate": 35.40,
+        "ATAR": 31.90
+    },
+    {
+        "Aggregate": 35.35,
+        "ATAR": 31.85
+    },
+    {
+        "Aggregate": 35.30,
+        "ATAR": 31.80
+    },
+    {
+        "Aggregate": 35.25,
+        "ATAR": 31.70
+    },
+    {
+        "Aggregate": 35.20,
+        "ATAR": 31.60
+    },
+    {
+        "Aggregate": 35.15,
+        "ATAR": 31.50
+    },
+    {
+        "Aggregate": 35.10,
+        "ATAR": 31.35
+    },
+    {
+        "Aggregate": 35.05,
+        "ATAR": 31.25
+    },
+    {
+        "Aggregate": 35.00,
+        "ATAR": 31.15
+    },
+    {
+        "Aggregate": 34.95,
+        "ATAR": 31.05
+    },
+    {
+        "Aggregate": 34.90,
+        "ATAR": 30.95
+    },
+    {
+        "Aggregate": 34.85,
+        "ATAR": 30.90
+    },
+    {
+        "Aggregate": 34.80,
+        "ATAR": 30.80
+    },
+    {
+        "Aggregate": 34.75,
+        "ATAR": 30.80
+    },
+    {
+        "Aggregate": 34.70,
+        "ATAR": 30.70
+    },
+    {
+        "Aggregate": 34.65,
+        "ATAR": 30.45
+    },
+    {
+        "Aggregate": 34.60,
+        "ATAR": 30.30
+    },
+    {
+        "Aggregate": 34.55,
+        "ATAR": 30.15
+    },
+    {
+        "Aggregate": 34.50,
+        "ATAR": 30.10
+    },
+    {
+        "Aggregate": 34.45,
+        "ATAR": 30.05
+    },
+    {
+        "Aggregate": 34.40,
+        "ATAR": 29.95
+    },
+    {
+        "Aggregate": 34.35,
+        "ATAR": 29.80
+    },
+    {
+        "Aggregate": 34.30,
+        "ATAR": 29.75
+    },
+    {
+        "Aggregate": 34.25,
+        "ATAR": 29.70
+    },
+    {
+        "Aggregate": 34.20,
+        "ATAR": 29.60
+    },
+    {
+        "Aggregate": 34.15,
+        "ATAR": 29.50
+    },
+    {
+        "Aggregate": 34.10,
+        "ATAR": 29.40
+    },
+    {
+        "Aggregate": 34.05,
+        "ATAR": 29.40
+    },
+    {
+        "Aggregate": 34.00,
+        "ATAR": 29.35
+    },
+    {
+        "Aggregate": 33.95,
+        "ATAR": 29.25
+    },
+    {
+        "Aggregate": 33.90,
+        "ATAR": 29.15
+    },
+    {
+        "Aggregate": 33.85,
+        "ATAR": 29.05
+    },
+    {
+        "Aggregate": 33.80,
+        "ATAR": 29.00
+    },
+    {
+        "Aggregate": 33.75,
+        "ATAR": 28.95
+    },
+    {
+        "Aggregate": 33.70,
+        "ATAR": 28.90
+    },
+    {
+        "Aggregate": 33.65,
+        "ATAR": 28.85
+    },
+    {
+        "Aggregate": 33.60,
+        "ATAR": 28.75
+    },
+    {
+        "Aggregate": 33.55,
+        "ATAR": 28.60
+    },
+    {
+        "Aggregate": 33.50,
+        "ATAR": 28.50
+    },
+    {
+        "Aggregate": 33.45,
+        "ATAR": 28.45
+    },
+    {
+        "Aggregate": 33.40,
+        "ATAR": 28.45
+    },
+    {
+        "Aggregate": 33.35,
+        "ATAR": 28.30
+    },
+    {
+        "Aggregate": 33.30,
+        "ATAR": 28.20
+    },
+    {
+        "Aggregate": 33.25,
+        "ATAR": 28.10
+    },
+    {
+        "Aggregate": 33.20,
+        "ATAR": 28.05
+    },
+    {
+        "Aggregate": 33.15,
+        "ATAR": 27.95
+    },
+    {
+        "Aggregate": 33.10,
+        "ATAR": 27.85
+    },
+    {
+        "Aggregate": 33.05,
+        "ATAR": 27.85
+    },
+    {
+        "Aggregate": 33.00,
+        "ATAR": 27.80
+    },
+    {
+        "Aggregate": 32.95,
+        "ATAR": 27.70
+    },
+    {
+        "Aggregate": 32.90,
+        "ATAR": 27.60
+    },
+    {
+        "Aggregate": 32.85,
+        "ATAR": 27.50
+    },
+    {
+        "Aggregate": 32.80,
+        "ATAR": 27.45
+    },
+    {
+        "Aggregate": 32.75,
+        "ATAR": 27.30
+    },
+    {
+        "Aggregate": 32.70,
+        "ATAR": 27.15
+    },
+    {
+        "Aggregate": 32.65,
+        "ATAR": 27.05
+    },
+    {
+        "Aggregate": 32.60,
+        "ATAR": 26.90
+    },
+    {
+        "Aggregate": 32.55,
+        "ATAR": 26.80
+    },
+    {
+        "Aggregate": 32.50,
+        "ATAR": 26.75
+    },
+    {
+        "Aggregate": 32.45,
+        "ATAR": 26.75
+    },
+    {
+        "Aggregate": 32.40,
+        "ATAR": 26.65
+    },
+    {
+        "Aggregate": 32.35,
+        "ATAR": 26.55
+    },
+    {
+        "Aggregate": 32.30,
+        "ATAR": 26.35
+    },
+    {
+        "Aggregate": 32.25,
+        "ATAR": 26.20
+    },
+    {
+        "Aggregate": 32.20,
+        "ATAR": 26.20
+    },
+    {
+        "Aggregate": 32.15,
+        "ATAR": 26.20
+    },
+    {
+        "Aggregate": 32.10,
+        "ATAR": 26.20
+    },
+    {
+        "Aggregate": 32.05,
+        "ATAR": 26.15
+    },
+    {
+        "Aggregate": 32.00,
+        "ATAR": 26.05
+    },
+    {
+        "Aggregate": 31.95,
+        "ATAR": 25.85
+    },
+    {
+        "Aggregate": 31.90,
+        "ATAR": 25.70
+    },
+    {
+        "Aggregate": 31.85,
+        "ATAR": 25.60
+    },
+    {
+        "Aggregate": 31.80,
+        "ATAR": 25.55
+    },
+    {
+        "Aggregate": 31.75,
+        "ATAR": 25.40
+    },
+    {
+        "Aggregate": 31.70,
+        "ATAR": 25.25
+    },
+    {
+        "Aggregate": 31.65,
+        "ATAR": 25.15
+    },
+    {
+        "Aggregate": 31.60,
+        "ATAR": 25.15
+    },
+    {
+        "Aggregate": 31.55,
+        "ATAR": 25.05
+    },
+    {
+        "Aggregate": 31.50,
+        "ATAR": 25.05
+    },
+    {
+        "Aggregate": 31.45,
+        "ATAR": 24.95
+    },
+    {
+        "Aggregate": 31.40,
+        "ATAR": 24.90
+    },
+    {
+        "Aggregate": 31.35,
+        "ATAR": 24.85
+    },
+    {
+        "Aggregate": 31.30,
+        "ATAR": 24.85
+    },
+    {
+        "Aggregate": 31.25,
+        "ATAR": 24.75
+    },
+    {
+        "Aggregate": 31.20,
+        "ATAR": 24.65
+    },
+    {
+        "Aggregate": 31.15,
+        "ATAR": 24.65
+    },
+    {
+        "Aggregate": 31.10,
+        "ATAR": 24.50
+    },
+    {
+        "Aggregate": 31.05,
+        "ATAR": 24.30
+    },
+    {
+        "Aggregate": 31.00,
+        "ATAR": 24.25
+    },
+    {
+        "Aggregate": 30.95,
+        "ATAR": 24.20
+    },
+    {
+        "Aggregate": 30.90,
+        "ATAR": 24.05
+    },
+    {
+        "Aggregate": 30.85,
+        "ATAR": 24.00
+    },
+    {
+        "Aggregate": 30.80,
+        "ATAR": 23.90
+    },
+    {
+        "Aggregate": 30.75,
+        "ATAR": 23.75
+    },
+    {
+        "Aggregate": 30.70,
+        "ATAR": 23.65
+    },
+    {
+        "Aggregate": 30.65,
+        "ATAR": 23.55
+    },
+    {
+        "Aggregate": 30.60,
+        "ATAR": 23.50
+    },
+    {
+        "Aggregate": 30.55,
+        "ATAR": 23.35
+    },
+    {
+        "Aggregate": 30.50,
+        "ATAR": 23.25
+    },
+    {
+        "Aggregate": 30.45,
+        "ATAR": 23.15
+    },
+    {
+        "Aggregate": 30.40,
+        "ATAR": 23.05
+    },
+    {
+        "Aggregate": 30.35,
+        "ATAR": 23.05
+    },
+    {
+        "Aggregate": 30.30,
+        "ATAR": 23.00
+    },
+    {
+        "Aggregate": 30.25,
+        "ATAR": 23.00
+    },
+    {
+        "Aggregate": 30.20,
+        "ATAR": 22.80
+    },
+    {
+        "Aggregate": 30.15,
+        "ATAR": 22.60
+    },
+    {
+        "Aggregate": 30.10,
+        "ATAR": 22.40
+    },
+    {
+        "Aggregate": 30.05,
+        "ATAR": 22.35
+    },
+    {
+        "Aggregate": 30.00,
+        "ATAR": 22.30
+    },
+    {
+        "Aggregate": 29.95,
+        "ATAR": 22.30
+    },
+    {
+        "Aggregate": 29.90,
+        "ATAR": 22.30
+    },
+    {
+        "Aggregate": 29.85,
+        "ATAR": 22.15
+    },
+    {
+        "Aggregate": 29.80,
+        "ATAR": 22.00
+    },
+    {
+        "Aggregate": 29.75,
+        "ATAR": 21.95
+    },
+    {
+        "Aggregate": 29.70,
+        "ATAR": 21.95
+    },
+    {
+        "Aggregate": 29.65,
+        "ATAR": 21.95
+    },
+    {
+        "Aggregate": 29.60,
+        "ATAR": 21.80
+    },
+    {
+        "Aggregate": 29.55,
+        "ATAR": 21.70
+    },
+    {
+        "Aggregate": 29.50,
+        "ATAR": 21.70
+    },
+    {
+        "Aggregate": 29.45,
+        "ATAR": 21.65
+    },
+    {
+        "Aggregate": 29.40,
+        "ATAR": 21.50
+    },
+    {
+        "Aggregate": 29.35,
+        "ATAR": 21.45
+    },
+    {
+        "Aggregate": 29.30,
+        "ATAR": 21.35
+    },
+    {
+        "Aggregate": 29.25,
+        "ATAR": 21.10
+    },
+    {
+        "Aggregate": 29.20,
+        "ATAR": 20.95
+    },
+    {
+        "Aggregate": 29.15,
+        "ATAR": 20.95
+    },
+    {
+        "Aggregate": 29.10,
+        "ATAR": 20.85
+    },
+    {
+        "Aggregate": 29.05,
+        "ATAR": 20.80
+    },
+    {
+        "Aggregate": 29.00,
+        "ATAR": 20.70
+    },
+    {
+        "Aggregate": 28.95,
+        "ATAR": 20.70
+    },
+    {
+        "Aggregate": 28.90,
+        "ATAR": 20.70
+    },
+    {
+        "Aggregate": 28.85,
+        "ATAR": 20.60
+    },
+    {
+        "Aggregate": 28.80,
+        "ATAR": 20.60
+    },
+    {
+        "Aggregate": 28.75,
+        "ATAR": 20.55
+    },
+    {
+        "Aggregate": 28.70,
+        "ATAR": 20.55
+    },
+    {
+        "Aggregate": 28.65,
+        "ATAR": 20.45
+    },
+    {
+        "Aggregate": 28.60,
+        "ATAR": 20.45
+    },
+    {
+        "Aggregate": 28.55,
+        "ATAR": 20.45
+    },
+    {
+        "Aggregate": 28.50,
+        "ATAR": 20.35
+    },
+    {
+        "Aggregate": 28.45,
+        "ATAR": 20.35
+    },
+    {
+        "Aggregate": 28.40,
+        "ATAR": 20.35
+    },
+    {
+        "Aggregate": 28.35,
+        "ATAR": 20.35
+    },
+    {
+        "Aggregate": 28.30,
+        "ATAR": 20.25
+    },
+    {
+        "Aggregate": 28.25,
+        "ATAR": 20.25
+    },
+    {
+        "Aggregate": 28.20,
+        "ATAR": 20.15
+    },
+    {
+        "Aggregate": 28.15,
+        "ATAR": 20.15
+    },
+    {
+        "Aggregate": 28.10,
+        "ATAR": 20.05
+    },
+    {
+        "Aggregate": 28.05,
+        "ATAR": 19.95
+    },
+    {
+        "Aggregate": 28.00,
+        "ATAR": 19.85
+    },
+    {
+        "Aggregate": 27.95,
+        "ATAR": 19.70
+    },
+    {
+        "Aggregate": 27.90,
+        "ATAR": 19.55
+    },
+    {
+        "Aggregate": 27.85,
+        "ATAR": 19.45
+    },
+    {
+        "Aggregate": 27.80,
+        "ATAR": 19.25
+    },
+    {
+        "Aggregate": 27.75,
+        "ATAR": 19.20
+    },
+    {
+        "Aggregate": 27.70,
+        "ATAR": 19.10
+    },
+    {
+        "Aggregate": 27.65,
+        "ATAR": 19.10
+    },
+    {
+        "Aggregate": 27.60,
+        "ATAR": 19.10
+    },
+    {
+        "Aggregate": 27.55,
+        "ATAR": 19.10
+    },
+    {
+        "Aggregate": 27.50,
+        "ATAR": 19.10
+    },
+    {
+        "Aggregate": 27.45,
+        "ATAR": 19.00
+    },
+    {
+        "Aggregate": 27.40,
+        "ATAR": 18.80
+    },
+    {
+        "Aggregate": 27.35,
+        "ATAR": 18.65
+    },
+    {
+        "Aggregate": 27.30,
+        "ATAR": 18.50
+    },
+    {
+        "Aggregate": 27.25,
+        "ATAR": 18.50
+    },
+    {
+        "Aggregate": 27.20,
+        "ATAR": 18.50
+    },
+    {
+        "Aggregate": 27.15,
+        "ATAR": 18.50
+    },
+    {
+        "Aggregate": 27.10,
+        "ATAR": 18.40
+    },
+    {
+        "Aggregate": 27.05,
+        "ATAR": 18.40
+    },
+    {
+        "Aggregate": 27.00,
+        "ATAR": 18.40
+    },
+    {
+        "Aggregate": 26.95,
+        "ATAR": 18.40
+    },
+    {
+        "Aggregate": 26.90,
+        "ATAR": 18.40
+    },
+    {
+        "Aggregate": 26.85,
+        "ATAR": 18.40
+    },
+    {
+        "Aggregate": 26.80,
+        "ATAR": 18.25
+    },
+    {
+        "Aggregate": 26.75,
+        "ATAR": 18.25
+    },
+    {
+        "Aggregate": 26.70,
+        "ATAR": 18.25
+    },
+    {
+        "Aggregate": 26.65,
+        "ATAR": 18.10
+    },
+    {
+        "Aggregate": 26.60,
+        "ATAR": 17.90
+    },
+    {
+        "Aggregate": 26.55,
+        "ATAR": 17.70
+    },
+    {
+        "Aggregate": 26.50,
+        "ATAR": 17.70
+    },
+    {
+        "Aggregate": 26.45,
+        "ATAR": 17.70
+    },
+    {
+        "Aggregate": 26.40,
+        "ATAR": 17.70
+    },
+    {
+        "Aggregate": 26.35,
+        "ATAR": 17.70
+    },
+    {
+        "Aggregate": 26.30,
+        "ATAR": 17.70
+    },
+    {
+        "Aggregate": 26.25,
+        "ATAR": 17.70
+    },
+    {
+        "Aggregate": 26.20,
+        "ATAR": 17.70
+    },
+    {
+        "Aggregate": 26.15,
+        "ATAR": 17.70
+    },
+    {
+        "Aggregate": 26.10,
+        "ATAR": 17.70
+    },
+    {
+        "Aggregate": 26.05,
+        "ATAR": 17.55
+    },
+    {
+        "Aggregate": 26.00,
+        "ATAR": 17.55
+    },
+    {
+        "Aggregate": 25.95,
+        "ATAR": 17.40
+    },
+    {
+        "Aggregate": 25.90,
+        "ATAR": 17.40
+    },
+    {
+        "Aggregate": 25.85,
+        "ATAR": 17.40
+    },
+    {
+        "Aggregate": 25.80,
+        "ATAR": 17.40
+    },
+    {
+        "Aggregate": 25.75,
+        "ATAR": 17.25
+    },
+    {
+        "Aggregate": 25.70,
+        "ATAR": 17.10
+    },
+    {
+        "Aggregate": 25.65,
+        "ATAR": 17.10
+    },
+    {
+        "Aggregate": 25.60,
+        "ATAR": 17.10
+    },
+    {
+        "Aggregate": 25.55,
+        "ATAR": 17.10
+    },
+    {
+        "Aggregate": 25.50,
+        "ATAR": 17.10
+    },
+    {
+        "Aggregate": 25.45,
+        "ATAR": 16.95
+    },
+    {
+        "Aggregate": 25.40,
+        "ATAR": 16.95
+    },
+    {
+        "Aggregate": 25.35,
+        "ATAR": 16.95
+    },
+    {
+        "Aggregate": 25.30,
+        "ATAR": 16.95
+    },
+    {
+        "Aggregate": 25.25,
+        "ATAR": 16.95
+    },
+    {
+        "Aggregate": 25.20,
+        "ATAR": 16.75
+    },
+    {
+        "Aggregate": 25.15,
+        "ATAR": 16.75
+    },
+    {
+        "Aggregate": 25.10,
+        "ATAR": 16.75
+    },
+    {
+        "Aggregate": 25.05,
+        "ATAR": 16.75
+    },
+    {
+        "Aggregate": 25.00,
+        "ATAR": 16.75
+    },
+    {
+        "Aggregate": 24.95,
+        "ATAR": 16.75
+    },
+    {
+        "Aggregate": 24.90,
+        "ATAR": 16.75
+    },
+    {
+        "Aggregate": 24.85,
+        "ATAR": 16.60
+    },
+    {
+        "Aggregate": 24.80,
+        "ATAR": 16.60
+    },
+    {
+        "Aggregate": 24.75,
+        "ATAR": 16.45
+    },
+    {
+        "Aggregate": 24.70,
+        "ATAR": 16.45
+    },
+    {
+        "Aggregate": 24.65,
+        "ATAR": 16.25
+    },
+    {
+        "Aggregate": 24.60,
+        "ATAR": 16.25
+    },
+    {
+        "Aggregate": 24.55,
+        "ATAR": 16.25
+    },
+    {
+        "Aggregate": 24.50,
+        "ATAR": 16.25
+    },
+    {
+        "Aggregate": 24.45,
+        "ATAR": 16.25
+    },
+    {
+        "Aggregate": 24.40,
+        "ATAR": 16.25
+    },
+    {
+        "Aggregate": 24.35,
+        "ATAR": 16.25
+    },
+    {
+        "Aggregate": 24.30,
+        "ATAR": 16.25
+    },
+    {
+        "Aggregate": 24.25,
+        "ATAR": 16.25
+    },
+    {
+        "Aggregate": 24.20,
+        "ATAR": 16.25
+    },
+    {
+        "Aggregate": 24.15,
+        "ATAR": 15.95
+    },
+    {
+        "Aggregate": 24.10,
+        "ATAR": 15.85
+    },
+    {
+        "Aggregate": 24.05,
+        "ATAR": 15.85
+    },
+    {
+        "Aggregate": 24.00,
+        "ATAR": 15.85
+    },
+    {
+        "Aggregate": 23.95,
+        "ATAR": 15.85
+    },
+    {
+        "Aggregate": 23.90,
+        "ATAR": 15.85
+    },
+    {
+        "Aggregate": 23.85,
+        "ATAR": 15.85
+    },
+    {
+        "Aggregate": 23.80,
+        "ATAR": 15.55
+    },
+    {
+        "Aggregate": 23.75,
+        "ATAR": 15.45
+    },
+    {
+        "Aggregate": 23.70,
+        "ATAR": 15.45
+    },
+    {
+        "Aggregate": 23.65,
+        "ATAR": 15.45
+    },
+    {
+        "Aggregate": 23.60,
+        "ATAR": 15.45
+    },
+    {
+        "Aggregate": 23.55,
+        "ATAR": 15.45
+    },
+    {
+        "Aggregate": 23.50,
+        "ATAR": 15.45
+    },
+    {
+        "Aggregate": 23.45,
+        "ATAR": 15.45
+    },
+    {
+        "Aggregate": 23.40,
+        "ATAR": 15.25
+    },
+    {
+        "Aggregate": 23.35,
+        "ATAR": 15.25
+    },
+    {
+        "Aggregate": 23.30,
+        "ATAR": 15.25
+    },
+    {
+        "Aggregate": 23.25,
+        "ATAR": 15.00
+    },
+    {
+        "Aggregate": 23.20,
+        "ATAR": 15.00
+    },
+    {
+        "Aggregate": 23.15,
+        "ATAR": 14.75
+    },
+    {
+        "Aggregate": 23.10,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 23.05,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 23.00,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.95,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.90,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.85,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.80,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.75,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.70,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.65,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.60,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.55,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.50,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.45,
+        "ATAR": 14.50
+    },
+    {
+        "Aggregate": 22.40,
+        "ATAR": 14.25
+    },
+    {
+        "Aggregate": 22.35,
+        "ATAR": 14.25
+    },
+    {
+        "Aggregate": 22.30,
+        "ATAR": 14.25
+    },
+    {
+        "Aggregate": 22.25,
+        "ATAR": 14.25
+    },
+    {
+        "Aggregate": 22.20,
+        "ATAR": 14.25
+    },
+    {
+        "Aggregate": 22.15,
+        "ATAR": 14.25
+    },
+    {
+        "Aggregate": 22.10,
+        "ATAR": 13.95
+    },
+    {
+        "Aggregate": 22.05,
+        "ATAR": 13.95
+    },
+    {
+        "Aggregate": 22.00,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.95,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.90,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.85,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.80,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.75,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.70,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.65,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.60,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.55,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.50,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.45,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.40,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.35,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.30,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.25,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.20,
+        "ATAR": 13.65
+    },
+    {
+        "Aggregate": 21.15,
+        "ATAR": 13.35
+    },
+    {
+        "Aggregate": 21.10,
+        "ATAR": 13.35
+    },
+    {
+        "Aggregate": 21.05,
+        "ATAR": 13.35
+    },
+    {
+        "Aggregate": 21.00,
+        "ATAR": 13.35
+    },
+    {
+        "Aggregate": 20.95,
+        "ATAR": 13.35
+    },
+    {
+        "Aggregate": 20.90,
+        "ATAR": 13.35
+    },
+    {
+        "Aggregate": 20.85,
+        "ATAR": 13.35
+    },
+    {
+        "Aggregate": 20.80,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.75,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.70,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.65,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.60,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.55,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.50,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.45,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.40,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.35,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.30,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.25,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.20,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.15,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.10,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.05,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 20.00,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 19.95,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 19.90,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 19.85,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 19.80,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 19.75,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 19.70,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 19.65,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 19.60,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 19.55,
+        "ATAR": 13.00
+    },
+    {
+        "Aggregate": 19.50,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 19.45,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 19.40,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 19.35,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 19.30,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 19.25,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 19.20,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 19.15,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 19.10,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 19.05,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 19.00,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 18.95,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 18.90,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 18.85,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 18.80,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 18.75,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 18.70,
+        "ATAR": 12.60
+    },
+    {
+        "Aggregate": 18.65,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.60,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.55,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.50,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.45,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.40,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.35,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.30,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.25,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.20,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.15,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.10,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.05,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 18.00,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 17.95,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 17.90,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 17.85,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 17.80,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 17.75,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 17.70,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 17.65,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 17.60,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 17.55,
+        "ATAR": 12.20
+    },
+    {
+        "Aggregate": 17.50,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 17.45,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 17.40,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 17.35,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 17.30,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 17.25,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 17.20,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 17.15,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 17.10,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 17.05,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 17.00,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.95,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.90,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.85,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.80,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.75,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.70,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.65,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.60,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.55,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.50,
+        "ATAR": 11.75
+    },
+    {
+        "Aggregate": 16.45,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 16.40,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 16.35,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 16.30,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 16.25,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 16.20,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 16.15,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 16.10,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 16.05,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 16.00,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.95,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.90,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.85,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.80,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.75,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.70,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.65,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.60,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.55,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.50,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.45,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.40,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.35,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.30,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.25,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.20,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.15,
+        "ATAR": 11.20
+    },
+    {
+        "Aggregate": 15.10,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 15.05,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 15.00,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.95,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.90,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.85,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.80,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.75,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.70,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.65,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.60,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.55,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.50,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.45,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.40,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.35,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.30,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.25,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.20,
+        "ATAR": 10.60
+    },
+    {
+        "Aggregate": 14.15,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 14.10,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 14.05,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 14.00,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.95,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.90,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.85,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.80,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.75,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.70,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.65,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.60,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.55,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.50,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.45,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.40,
+        "ATAR": 9.85
+    },
+    {
+        "Aggregate": 13.35,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 13.30,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 13.25,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 13.20,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 13.15,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 13.10,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 13.05,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 13.00,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.95,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.90,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.85,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.80,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.75,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.70,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.65,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.60,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.55,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.50,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.45,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.40,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.35,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.30,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.25,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.20,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.15,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.10,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.05,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 12.00,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.95,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.90,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.85,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.80,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.75,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.70,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.65,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.60,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.55,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.50,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.45,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.40,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.35,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.30,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.25,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.20,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.15,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.10,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.05,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 11.00,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.95,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.90,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.85,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.80,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.75,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.70,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.65,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.60,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.55,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.50,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.45,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.40,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.35,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.30,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.25,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.20,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.15,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.10,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.05,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 10.00,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.95,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.90,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.85,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.80,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.75,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.70,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.65,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.60,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.55,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.50,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.45,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.40,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.35,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.30,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.25,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.20,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.15,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.10,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.05,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 9.00,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.95,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.90,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.85,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.80,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.75,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.70,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.65,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.60,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.55,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.50,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.45,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.40,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.35,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.30,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.25,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.20,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.15,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.10,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.05,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 8.00,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.95,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.90,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.85,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.80,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.75,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.70,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.65,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.60,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.55,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.50,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.45,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.40,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.35,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.30,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.25,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.20,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.15,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.10,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.05,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 7.00,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.95,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.90,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.85,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.80,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.75,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.70,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.65,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.60,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.55,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.50,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.45,
+        "ATAR": 8.90
+    },
+    {
+        "Aggregate": 6.40,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 6.35,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 6.30,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 6.25,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 6.20,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 6.15,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 6.10,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 6.05,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 6.00,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.95,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.90,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.85,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.80,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.75,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.70,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.65,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.60,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.55,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.50,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.45,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.40,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.35,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.30,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.25,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.20,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.15,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.10,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.05,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 5.00,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 4.95,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate": 4.90,
+        "ATAR": 7.50
+    },
+    {
+        "Aggregate":4.85,
+        "ATAR": 0
+    }
+]
+}
